@@ -2,8 +2,11 @@
 
 [![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://tinyurl.com/2h9aktmd) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://tinyurl.com/d4xnrptz) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://tinyurl.com/mr22naua) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
 
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
+- [Cryptocurrency](#cryptocurrency)
 - [Databases](#databases)
+- [Decentralized Systems](#decentralized-systems)
 - [Digital Marketing](#digital-marketing)
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
@@ -13,12 +16,38 @@
 - [Travel](#travel)
 - [Web Optimization](#web-optimization)
 
+## Artificial Intelligence (AI)
+
+* **[Awesome AI](https://github.com/awesomelistsio/awesome-ai):** A general list of resources, libraries, and tools for artificial intelligence.
+* **[Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics):** Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.
+* **[Awesome AI for Edge Computing](https://github.com/awesomelistsio/awesome-ai-edge-computing):** Tools and frameworks for running AI models on edge devices and IoT.
+* **[Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure):** Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.
+* **[Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers):** A curated list of influential AI research papers and academic resources.
+* **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
+* **[Awesome Deep Learning](https://github.com/awesomelistsio/awesome-deep-learning):** A curated collection of resources and frameworks for deep learning and neural networks.
+* **[Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning):** A comprehensive list of libraries, frameworks, and tools for machine learning.
+* **[Awesome Natural Language Processing (NLP)](https://github.com/awesomelistsio/awesome-nlp):** Tools, libraries, and datasets for NLP and text analysis.
+* **[Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning):** A collection of tools, frameworks, and research papers for reinforcement learning.
+
 ## Blogging
 
 * **[Awesome Blogging](https://github.com/awesomelistsio/awesome-blogging):** A curated list of awesome tools, resources, platforms, and tips for bloggers of all levels.
 * **[Awesome Ghost](https://github.com/awesomelistsio/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
+
+## Cryptocurrency
+
+* **[Awesome Altcoins](https://github.com/awesomelistsio/awesome-altcoins):** A collection of resources, tools, and information for alternative cryptocurrencies beyond Bitcoin and Ethereum.
+* **[Awesome Bitcoin](https://github.com/awesomelistsio/awesome-bitcoin):** A curated list of tools, libraries, and resources for Bitcoin, the first and most widely used cryptocurrency.
+* **[Awesome Crypto Exchanges](https://github.com/awesomelistsio/awesome-crypto-exchanges):** A list of centralized and decentralized cryptocurrency exchanges, including trading tools and analytics.
+* **[Awesome Crypto Mining](https://github.com/awesomelistsio/awesome-crypto-mining):** A collection of resources for cryptocurrency mining, including software, hardware, and mining pools.
+* **[Awesome Crypto Wallets](https://github.com/awesomelistsio/awesome-crypto-wallets):** A curated list of secure and popular cryptocurrency wallets for storing digital assets.
+* **[Awesome Cryptocurrency](https://github.com/awesomelistsio/awesome-cryptocurrency):** A general list of cryptocurrency resources, including exchanges, wallets, and analytics tools.
+* **[Awesome DeFi](https://github.com/awesomelistsio/awesome-defi):** A list of tools, platforms, and resources for the decentralized finance ecosystem.
+* **[Awesome Ethereum](https://github.com/awesomelistsio/awesome-ethereum):** A comprehensive list of resources, tools, and development frameworks for Ethereum.
+* **[Awesome Privacy Coins](https://github.com/awesomelistsio/awesome-privacy-coins):** Resources and tools focused on privacy-oriented cryptocurrencies (e.g., Monero, Zcash).
+* **[Awesome Smart Contracts](https://github.com/awesomelistsio/awesome-smart-contracts):** Libraries, tools, and frameworks for developing and auditing smart contracts.
 
 ## Databases
 * **[Awesome Cassandra](https://github.com/awesomelistsio/awesome-cassandra):** A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.
@@ -27,6 +56,19 @@
 * **[Awesome MongoDB](https://github.com/awesomelistsio/awesome-mongodb):** A curated list of awesome libraries, tools, frameworks, and resources for MongoDB, a NoSQL document database designed for modern application development.
 * **[Awesome MySQL](https://github.com/awesomelistsio/awesome-mysql):** A curated list of awesome frameworks, libraries, tools, and resources for MySQL, a popular open-source relational database management system.
 * **[Awesome PostgreSQL](https://github.com/awesomelistsio/awesome-postgresql):** A curated list of awesome libraries, tools, frameworks, and resources for PostgreSQL, an advanced open-source relational database system known for its performance, extensibility, and SQL compliance.
+
+## Decentralized Systems
+
+* **[Awesome Blockchain Protocols](https://github.com/awesomelistsio/awesome-blockchain-protocols):** A list of various blockchain protocols and frameworks, including Layer 1 and Layer 2 solutions.
+* **[Awesome Consensus Algorithms](https://github.com/awesomelistsio/awesome-consensus-algorithms):** A comprehensive list of consensus mechanisms and protocols used in decentralized systems (e.g., Proof of Work, Proof of Stake, Raft, Paxos).
+* **[Awesome Decentralized Autonomous Organizations (DAOs)](https://github.com/awesomelistsio/awesome-daos):** A collection of resources for building and participating in decentralized autonomous organizations.
+* **[Awesome Decentralized Finance (DeFi)](https://github.com/awesomelistsio/awesome-defi):** Resources and tools for building and understanding decentralized finance applications.
+* **[Awesome Decentralized Identity (DID)](https://github.com/awesomelistsio/awesome-decentralized-identity):** A list of tools, protocols, and libraries for decentralized identity systems and self-sovereign identity (SSI).
+* **[Awesome Decentralized Systems](https://github.com/awesomelistsio/awesome-decentralized-systems):** A curated list of tools, protocols, and resources for building decentralized applications and services.
+* **[Awesome Distributed Databases](https://github.com/awesomelistsio/awesome-distributed-databases):** A collection of distributed database technologies and tools, including consensus protocols and replication strategies.
+* **[Awesome IPFS](https://github.com/awesomelistsio/awesome-ipfs):** A curated list of resources, tools, and libraries for the InterPlanetary File System (IPFS), a protocol for decentralized storage.
+* **[Awesome Peer-to-Peer (P2P) Networks](https://github.com/awesomelistsio/awesome-p2p-networks):** Resources and tools for building and understanding peer-to-peer networks.
+* **[Awesome Web3 Development](https://github.com/awesomelistsio/awesome-web3-development):** Tools, frameworks, and resources for building decentralized applications (dApps) using Web3 technologies.
 
 ## Digital Marketing
 
