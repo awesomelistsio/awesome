@@ -3,9 +3,11 @@
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://tinyurl.com/d4xnrptz) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://tinyurl.com/mr22naua) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
 
 - [Blogging](#blogging)
+- [Databases](#databases)
 - [Digital Marketing](#digital-marketing)
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
+- [Media](#media)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Travel](#travel)
@@ -17,6 +19,14 @@
 * **[Awesome Ghost](https://github.com/awesomelistsio/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
+
+## Databases
+* **[Awesome Cassandra](https://github.com/awesomelistsio/awesome-cassandra):** A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.
+* **[Awesome CouchDB](https://github.com/awesomelistsio/awesome-couchdb):** A curated list of awesome libraries, tools, frameworks, and resources for CouchDB, an open-source NoSQL database known for its ease of use, scalability, and master-master replication.
+* **[Awesome HBase](https://github.com/awesomelistsio/awesome-hbase):** A curated list of awesome libraries, tools, frameworks, and resources for Apache HBase, a scalable, distributed, and NoSQL database built on top of Hadoop, designed for handling large amounts of data.
+* **[Awesome MongoDB](https://github.com/awesomelistsio/awesome-mongodb):** A curated list of awesome libraries, tools, frameworks, and resources for MongoDB, a NoSQL document database designed for modern application development.
+* **[Awesome MySQL](https://github.com/awesomelistsio/awesome-mysql):** A curated list of awesome frameworks, libraries, tools, and resources for MySQL, a popular open-source relational database management system.
+* **[Awesome PostgreSQL](https://github.com/awesomelistsio/awesome-postgresql):** A curated list of awesome libraries, tools, frameworks, and resources for PostgreSQL, an advanced open-source relational database system known for its performance, extensibility, and SQL compliance.
 
 ## Digital Marketing
 
@@ -31,6 +41,10 @@
 
 * **[Awesome Electron](https://github.com/awesomelistsio/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
 
+## Media
+* **[Awesome Audiovisual](https://github.com/awesomelistsio/awesome-audiovisual):** A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
+* **[Awesome FFmpeg](https://github.com/awesomelistsio/awesome-ffmpeg):** A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.
+  
 ## Platforms
 
 * **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
