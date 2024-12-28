@@ -14,6 +14,7 @@
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Space Technology](#space-technology)
+- [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Travel](#travel)
 - [Web Optimization](#web-optimization)
 
@@ -112,8 +113,11 @@
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
 
+## Sustainability and Green Tech
+* **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
+
 ## Space Technology
-* **[Awesome Open Source Space Data APIs](https://github.com/awesomelistsio/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data. This list covers everything from satellite imagery to planetary science, making it ideal for developers, researchers, and space enthusiasts.
+* **[Awesome Open Source Space Data APIs](https://github.com/awesomelistsio/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
 
 ## Travel
 * **[Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
