@@ -13,6 +13,7 @@
 - [Media](#media)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
+- [Space Technology](#space-technology)
 - [Travel](#travel)
 - [Web Optimization](#web-optimization)
 
@@ -110,6 +111,9 @@
 * **[Awesome Rust](https://github.com/awesomelistsio/awesome-rust):** A curated list of awesome resources and tips for Rust programming language enthusiasts.
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
+
+## Space Technology
+* **[Awesome Open Source Space Data APIs](https://github.com/awesomelistsio/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data. This list covers everything from satellite imagery to planetary science, making it ideal for developers, researchers, and space enthusiasts.
 
 ## Travel
 * **[Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
