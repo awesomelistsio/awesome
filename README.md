@@ -11,10 +11,12 @@
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
 - [Gaming Development](#gaming-development)
+- [Mathematics](#mathematics)
 - [Media](#media)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Quantum Computing](#quantum-computing)
+- [Science](#science)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Travel](#travel)
@@ -90,6 +92,10 @@
 ## Gaming Development
 
 * **[Awesome Game Engines](https://github.com/awesomelistsio/awesome-game-engines):** A curated list of game engines, frameworks, tools, and resources for game development.
+
+## Mathematics
+
+* **[Awesome Computational Mathematics](https://github.com/awesomelistsio/awesome-computational-mathematics):** A curated list of tools, frameworks, libraries, and educational resources for computational mathematics.
   
 ## Media
 * **[Awesome Audiovisual](https://github.com/awesomelistsio/awesome-audiovisual):** A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
@@ -121,6 +127,9 @@
 
 ## Quantum Computing
 * **[Awesome Quantum Programming Frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
+
+## Science
+* **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
 
 ## Sustainability and Green Tech
 * **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
