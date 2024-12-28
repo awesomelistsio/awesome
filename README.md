@@ -134,7 +134,7 @@
 
 ## Science
 * **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
-* **[Awesome Open science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
+* **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
   
 ## Sustainability and Green Tech
 * **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
