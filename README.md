@@ -83,7 +83,10 @@
 
 ## Engineering
 
+* **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering):** A curated list of tools, frameworks, resources, and educational content for aerospace engineering.
+* **[Awesome Civil Engineering](https://github.com/awesomelistsio/awesome-civil-engineering):** A curated list of tools, frameworks, resources, and educational content for civil engineering.
 * **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
+* **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering):** A curated list of tools, frameworks, resources, and educational content for environmental engineering.
 
 ## Frameworks
 
@@ -130,7 +133,8 @@
 
 ## Science
 * **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
-
+* **[Awesome Open science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
+  
 ## Sustainability and Green Tech
 * **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
 
