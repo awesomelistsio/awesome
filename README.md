@@ -10,9 +10,11 @@
 - [Digital Marketing](#digital-marketing)
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
+- [Gaming Development](#gaming-development)
 - [Media](#media)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
+- [Quantum Computing](#quantum-computing)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Travel](#travel)
@@ -85,6 +87,10 @@
 
 * **[Awesome Electron](https://github.com/awesomelistsio/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
 
+## Gaming Development
+
+* **[Awesome Game Engines](https://github.com/awesomelistsio/awesome-game-engines):** A curated list of game engines, frameworks, tools, and resources for game development.
+  
 ## Media
 * **[Awesome Audiovisual](https://github.com/awesomelistsio/awesome-audiovisual):** A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
 * **[Awesome FFmpeg](https://github.com/awesomelistsio/awesome-ffmpeg):** A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.
@@ -112,6 +118,9 @@
 * **[Awesome Rust](https://github.com/awesomelistsio/awesome-rust):** A curated list of awesome resources and tips for Rust programming language enthusiasts.
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
+
+## Quantum Computing
+* **[Awesome Quantum Programming Frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
 
 ## Sustainability and Green Tech
 * **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
