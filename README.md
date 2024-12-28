@@ -87,6 +87,7 @@
 * **[Awesome Civil Engineering](https://github.com/awesomelistsio/awesome-civil-engineering):** A curated list of tools, frameworks, resources, and educational content for civil engineering.
 * **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
 * **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering):** A curated list of tools, frameworks, resources, and educational content for environmental engineering.
+* **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics):** A curated list of tools, frameworks, libraries, and resources for robotics.
 
 ## Frameworks
 
