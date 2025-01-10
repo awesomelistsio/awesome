@@ -27,6 +27,7 @@
 * **[Awesome AI](https://github.com/awesomelistsio/awesome-ai):** A general list of resources, libraries, and tools for artificial intelligence.
 * **[Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics):** Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.
 * **[Awesome AI for Edge Computing](https://github.com/awesomelistsio/awesome-ai-edge-computing):** Tools and frameworks for running AI models on edge devices and IoT.
+* **[Awesome AI in Healthcare](https://github.com/awesomelistsio/awesome-ai-healthcare):** A curated list of tools, frameworks, applications, datasets, and resources for AI in Healthcare.
 * **[Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure):** Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.
 * **[Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers):** A curated list of influential AI research papers and academic resources.
 * **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
@@ -38,7 +39,9 @@
 ## Blogging
 
 * **[Awesome Blogging](https://github.com/awesomelistsio/awesome-blogging):** A curated list of awesome tools, resources, platforms, and tips for bloggers of all levels.
+* **[Awesome Blogging Monetization](https://github.com/awesomelistsio/awesome-blogging-monetization):** A curated list of tools, platforms, strategies, and resources for blog monetization.
 * **[Awesome Ghost](https://github.com/awesomelistsio/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
+* **[Awesome Microblogging](https://github.com/awesomelistsio/awesome-microblogging):** A curated list of tools, platforms, resources, and strategies for microblogging.
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
 
@@ -78,6 +81,8 @@
 
 ## Digital Marketing
 
+* **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing):** A curated list of tools, platforms, strategies, and resources for content marketing.
+* **[Awesome Email Marketing](https://github.com/awesomelistsio/awesome-email-marketing):** A curated list of tools, platforms, strategies, and resources for email marketing.
 * **[Awesome SEO](https://github.com/awesomelistsio/awesome-seo):** A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
 * **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media):** A curated list of resources and tips to level up your social media game!
 
@@ -87,6 +92,7 @@
 * **[Awesome Civil Engineering](https://github.com/awesomelistsio/awesome-civil-engineering):** A curated list of tools, frameworks, resources, and educational content for civil engineering.
 * **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
 * **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering):** A curated list of tools, frameworks, resources, and educational content for environmental engineering.
+* **[Awesome Mechanical Engineering](https://github.com/awesomelistsio/awesome-mechanical-engineering):** A curated list of tools, platforms, resources, and educational content for mechanical engineering.
 * **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics):** A curated list of tools, frameworks, libraries, and resources for robotics.
 
 ## Frameworks
@@ -100,10 +106,12 @@
 ## Mathematics
 
 * **[Awesome Computational Mathematics](https://github.com/awesomelistsio/awesome-computational-mathematics):** A curated list of tools, frameworks, libraries, and educational resources for computational mathematics.
-  
+* **[Awesome Open Source Math Tools](https://github.com/awesomelistsio/awesome-open-source-math-tools):** A curated list of open-source tools, libraries, and resources for mathematical computations.
+
 ## Media
 * **[Awesome Audiovisual](https://github.com/awesomelistsio/awesome-audiovisual):** A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
 * **[Awesome FFmpeg](https://github.com/awesomelistsio/awesome-ffmpeg):** A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.
+* **[Awesome Podcasting Tools](https://github.com/awesomelistsio/awesome-podcasting-tools):** A curated list of tools, platforms, resources, and tips for podcasting.
   
 ## Platforms
 
@@ -120,6 +128,7 @@
 * **[Awesome OCaml](https://github.com/awesomelistsio/awesome-ocaml):** A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
 * **[Awesome Java](https://github.com/awesomelistsio/awesome-java):** A curated list of awesome frameworks, libraries, tools, and resources for Java programming.
 * **[Awesome Julia](https://github.com/awesomelistsio/awesome-julia):** A curated list of awesome resources, libraries, tools, and tips for Julia programming.
+* **[Awesome Kotlin](https://github.com/awesomelistsio/awesome-kotlin):** A curated list of awesome tools, libraries, frameworks, and resources for Kotlin.
 * **[Awesome Perl](https://github.com/awesomelistsio/awesome-perl):** A curated list of awesome frameworks, libraries, tools, and resources for the Perl programming language.
 * **[Awesome PureScript](https://github.com/awesomelistsio/awesome-purescript):** A curated list of awesome PureScript resources, libraries, tools, and tips.
 * **[Awesome Python](https://github.com/awesomelistsio/awesome-python):** A curated list of awesome frameworks, libraries, tools, and resources for Python programming.
@@ -128,7 +137,8 @@
 * **[Awesome Rust](https://github.com/awesomelistsio/awesome-rust):** A curated list of awesome resources and tips for Rust programming language enthusiasts.
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
-
+* **[Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript):** A curated list of awesome tools, libraries, frameworks, and resources for TypeScript.
+  
 ## Quantum Computing
 * **[Awesome Quantum Programming Frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
 
