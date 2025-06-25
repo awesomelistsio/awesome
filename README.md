@@ -49,6 +49,7 @@
 
 * **[Awesome Altcoins](https://github.com/awesomelistsio/awesome-altcoins):** A collection of resources, tools, and information for alternative cryptocurrencies beyond Bitcoin and Ethereum.
 * **[Awesome Bitcoin](https://github.com/awesomelistsio/awesome-bitcoin):** A curated list of tools, libraries, and resources for Bitcoin, the first and most widely used cryptocurrency.
+* **[Awesome Crypto Compliance](https://github.com/awesomelistsio/awesome-crypto-compliance):** A curated list of awesome tools, platforms, frameworks, and resources for regulatory compliance.
 * **[Awesome Crypto Exchanges](https://github.com/awesomelistsio/awesome-crypto-exchanges):** A list of centralized and decentralized cryptocurrency exchanges, including trading tools and analytics.
 * **[Awesome Crypto Mining](https://github.com/awesomelistsio/awesome-crypto-mining):** A collection of resources for cryptocurrency mining, including software, hardware, and mining pools.
 * **[Awesome Crypto Wallets](https://github.com/awesomelistsio/awesome-crypto-wallets):** A curated list of secure and popular cryptocurrency wallets for storing digital assets.
@@ -78,6 +79,7 @@
 * **[Awesome IPFS](https://github.com/awesomelistsio/awesome-ipfs):** A curated list of resources, tools, and libraries for the InterPlanetary File System (IPFS), a protocol for decentralized storage.
 * **[Awesome Peer-to-Peer (P2P) Networks](https://github.com/awesomelistsio/awesome-p2p-networks):** Resources and tools for building and understanding peer-to-peer networks.
 * **[Awesome Web3 Development](https://github.com/awesomelistsio/awesome-web3-development):** Tools, frameworks, and resources for building decentralized applications (dApps) using Web3 technologies.
+* **[Awesome Zero-Knowledge Proofs](https://github.com/awesomelistsio/awesome-zero-knowledge-proofs):** A curated list of awesome libraries, tools, frameworks, and resources for Zero-Knowledge Proofs (ZKPs).
 
 ## Digital Marketing
 
