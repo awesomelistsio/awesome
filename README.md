@@ -14,6 +14,7 @@
 - [Mathematics](#mathematics)
 - [Media](#media)
 - [Platforms](#platforms)
+- [Politics & Society](#politics--society)
 - [Programming Languages](#programming-languages)
 - [Quantum Computing](#quantum-computing)
 - [Science](#science)
@@ -118,6 +119,14 @@
 ## Platforms
 
 * **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
+
+## Politics & Society
+
+* **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change):** Curated resources, projects, data, and tools to understand and address climate change.
+* **[Awesome G7](https://github.com/awesomelistsio/awesome-g7):** A curated list of resources, reports, and analysis related to the G7 (Group of Seven) nations and their policies.
+* **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights):** A list of high-quality resources, organizations, tools, and data to support human rights work.
+* **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism):** Curated tools, platforms, and resources for investigative, data, and digital journalism.
+* **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science):** Curated academic and open resources related to political systems, theories, and institutions.
 
 ## Programming Languages
 
