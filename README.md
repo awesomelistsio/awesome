@@ -30,15 +30,22 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 ## Artificial Intelligence (AI)
 
 * **[Awesome AI](https://github.com/awesomelistsio/awesome-ai):** A general list of resources, libraries, and tools for artificial intelligence.
+* **[Awesome AI Art](https://github.com/awesomelistsio/awesome-ai-art):** A curated list of tools, platforms, datasets, and resources for creating, exploring, and understanding AI-generated art.
 * **[Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics):** Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.
 * **[Awesome AI for Edge Computing](https://github.com/awesomelistsio/awesome-ai-edge-computing):** Tools and frameworks for running AI models on edge devices and IoT.
 * **[Awesome AI in Healthcare](https://github.com/awesomelistsio/awesome-ai-healthcare):** A curated list of tools, frameworks, applications, datasets, and resources for AI in Healthcare.
 * **[Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure):** Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.
 * **[Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers):** A curated list of influential AI research papers and academic resources.
+* **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt):** A curated list of tools, extensions, prompts, projects, and resources for ChatGPT and the OpenAI ecosystem.
+* **[Awesome ChatGPT Prompts](https://github.com/awesomelistsio/awesome-chatgpt-prompts):** A curated list of high-quality ChatGPT prompts for productivity, creativity, learning, development, and fun.
 * **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
 * **[Awesome Deep Learning](https://github.com/awesomelistsio/awesome-deep-learning):** A curated collection of resources and frameworks for deep learning and neural networks.
+* **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai):** A curated list of tools, models, datasets, papers, and resources related to generative artificial intelligence.
 * **[Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning):** A comprehensive list of libraries, frameworks, and tools for machine learning.
 * **[Awesome Natural Language Processing (NLP)](https://github.com/awesomelistsio/awesome-nlp):** Tools, libraries, and datasets for NLP and text analysis.
+* **[Awesome NFT Development)](https://github.com/awesomelistsio/awesome-nft-development):** A curated list of tools, frameworks, standards, tutorials, and platforms for developing NFTs (Non-Fungible Tokens).
+* **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai):** A curated list of OpenAI tools, APIs, research, SDKs, and community resources.
+* **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering):** A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) and generative AI.
 * **[Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning):** A collection of tools, frameworks, and research papers for reinforcement learning.
 
 ## Blogging
@@ -99,6 +106,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Civil Engineering](https://github.com/awesomelistsio/awesome-civil-engineering):** A curated list of tools, frameworks, resources, and educational content for civil engineering.
 * **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
 * **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering):** A curated list of tools, frameworks, resources, and educational content for environmental engineering.
+* **[Awesome Geoengineering](https://github.com/awesomelistsio/awesome-geoengineering):** A curated list of projects, research, organizations, tools, and resources related to geoengineering.
 * **[Awesome Mechanical Engineering](https://github.com/awesomelistsio/awesome-mechanical-engineering):** A curated list of tools, platforms, resources, and educational content for mechanical engineering.
 * **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics):** A curated list of tools, frameworks, libraries, and resources for robotics.
 
@@ -128,8 +136,12 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 
 * **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change):** Curated resources, projects, data, and tools to understand and address climate change.
 * **[Awesome Civic Tech](https://github.com/awesomelistsio/awesome-civic-tech):** Curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.
+* **[Awesome Digital Rights](https://github.com/awesomelistsio/awesome-digital-rights):** A curated list of resources, organizations, tools, and readings focused on digital rights, freedom of expression, privacy, access to information, and internet governance.
+* **[Awesome E-Government](https://github.com/awesomelistsio/awesome-e-government):** A curated list of tools, platforms, policies, and projects that enable digital transformation in public services and governance.
 * **[Awesome G7](https://github.com/awesomelistsio/awesome-g7):** A curated list of resources, reports, and analysis related to the G7 (Group of Seven) nations and their policies.
+* **[Awesome Global Development](https://github.com/awesomelistsio/awesome-global-development):** A curated list of high-quality resources, organizations, data platforms, and tools related to international development, humanitarian work, poverty alleviation, and global equity.
 * **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights):** A list of high-quality resources, organizations, tools, and data to support human rights work.
+* **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom):** A curated list of tools, platforms, organizations, and resources that support free, open, and secure access to the internet.
 * **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism):** Curated tools, platforms, and resources for investigative, data, and digital journalism.
 * **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data):** Curated list of high-quality open data resources, tools, platforms, and projects across domains.
 * **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance):** Curated list of projects, platforms, and APIs for transparency, civic tech, and global governance
@@ -162,10 +174,14 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 
 ## Science
 * **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
+* **[Awesome Oceanography](https://github.com/awesomelistsio/awesome-oceanography):** A curated list of awesome resources, tools, data, and organizations for the study and exploration of the ocean.
 * **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
-  
+
 ## Sustainability and Green Tech
+* **[Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets):** A curated list of tools, frameworks, datasets, standards, platforms, and projects for carbon accounting, carbon offsetting, and sustainability tracking.
+* **[Awesome Climate Tech](https://github.com/awesomelistsio/awesome-climate-tech):** A curated list of high-quality resources, startups, tools, and frameworks driving innovation in climate technology.
 * **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
+* **[Awesome Sustainability](https://github.com/awesomelistsio/awesome-sustainability):** A curated list of tools, projects, frameworks, communities, and resources for building a more sustainable world.
 
 ## Space Technology
 * **[Awesome Open Source Space Data APIs](https://github.com/awesomelistsio/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
