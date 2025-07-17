@@ -11,7 +11,9 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 - [Cryptocurrency](#cryptocurrency)
 - [Databases](#databases)
 - [Decentralized Systems](#decentralized-systems)
+- [DevOps and CI/CD](#devops-and-cicd)
 - [Digital Marketing](#digital-marketing)
+- [Emerging Tech: Drones & IoT](#emerging-tech-drones--iot)
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
 - [Gaming Development](#gaming-development)
@@ -21,6 +23,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 - [Politics & Society](#politics--society)
 - [Programming Languages](#programming-languages)
 - [Quantum Computing](#quantum-computing)
+- [Privacy, Security & Intelligence](#privacy-security--intelligence)
 - [Science](#science)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
@@ -41,6 +44,8 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
 * **[Awesome Deep Learning](https://github.com/awesomelistsio/awesome-deep-learning):** A curated collection of resources and frameworks for deep learning and neural networks.
 * **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai):** A curated list of tools, models, datasets, papers, and resources related to generative artificial intelligence.
+* **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain):** A curated list of resources, tools, examples, and projects using LangChain, the framework for developing applications powered by language models.
+* **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops):** A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 * **[Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning):** A comprehensive list of libraries, frameworks, and tools for machine learning.
 * **[Awesome Natural Language Processing (NLP)](https://github.com/awesomelistsio/awesome-nlp):** Tools, libraries, and datasets for NLP and text analysis.
 * **[Awesome NFT Development)](https://github.com/awesomelistsio/awesome-nft-development):** A curated list of tools, frameworks, standards, tutorials, and platforms for developing NFTs (Non-Fungible Tokens).
@@ -93,6 +98,16 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Web3 Development](https://github.com/awesomelistsio/awesome-web3-development):** Tools, frameworks, and resources for building decentralized applications (dApps) using Web3 technologies.
 * **[Awesome Zero-Knowledge Proofs](https://github.com/awesomelistsio/awesome-zero-knowledge-proofs):** A curated list of awesome libraries, tools, frameworks, and resources for Zero-Knowledge Proofs (ZKPs).
 
+## DevOps and CI/CD
+
+* **[Awesome CI](https://github.com/awesomelistsio/awesome-ci):** A curated list of awesome Continuous Integration (CI) tools, services, workflows, and resources.
+* **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops):** A curated list of awesome tools, resources, and best practices in DevOps.
+* **[Awesome GitHub Actions](https://github.com/awesomelistsio/awesome-github-actions):** A curated list of high-quality resources, actions, tools, and workflows for GitHub Actions.
+* **[Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops):** A curated list of tools, frameworks, platforms, and resources for Machine Learning Operations.
+* **[Awesome QA](https://github.com/awesomelistsio/awesome-qa):** A curated list of Quality Assurance (QA) tools and resources.
+* **[Awesome Testing](https://github.com/awesomelistsio/awesome-testing):** A curated list of testing tools and frameworks.
+* **[Awesome Test Automation](https://github.com/awesomelistsio/awesome-test-automation):** A curated list for automating software testing.
+  
 ## Digital Marketing
 
 * **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing):** A curated list of tools, platforms, strategies, and resources for content marketing.
@@ -100,6 +115,23 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome SEO](https://github.com/awesomelistsio/awesome-seo):** A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
 * **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media):** A curated list of resources and tips to level up your social media game!
 
+## Emerging Tech: Drones & IoT
+
+* **[Awesome Edge Computing](https://github.com/awesomelistsio/awesome-edge-computing):** Tools and research for edge devices.
+* **[Awesome IoT](https://github.com/awesomelistsio/awesome-iot):** Internet of Things platforms, tools, and resources.
+* **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native):** Tools and frameworks for cloud-native development.
+* **[Awesome Home Automation](https://github.com/awesomelistsio/awesome-home-automation):** Open-source smart home resources.
+* **[Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes):** Kubernetes tools and projects.
+* **[Awesome Open Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware):** Open-source drone firmware and flight controllers.
+* **[Awesome Flight Controller Software](https://github.com/awesomelistsio/awesome-flight-controller-software):** High-quality flight control software for UAVs.
+* **[Awesome Swarm Drones](https://github.com/awesomelistsio/awesome-swarm-drones):** Resources for multi-UAV and coordinated drone systems.
+* **[Awesome UAV Collision Avoidance Systems](https://github.com/awesomelistsio/awesome-uav-collision-avoidance-systems):** Libraries and datasets for UAV safety.
+* **[Awesome Flight Log Analysis](https://github.com/awesomelistsio/awesome-flight-log-analysis):** Tools to analyze UAV and aircraft flight logs.
+* **[Awesome UAV Flight Test Planning](https://github.com/awesomelistsio/awesome-uav-flight-test-planning):** Resources for planning UAV test flights.
+* **[Awesome UAV Root Cause Analysis](https://github.com/awesomelistsio/awesome-uav-root-cause-analysis):** Case studies and methodologies for UAV failure analysis.
+* **[Awesome Lidar for Drones](https://github.com/awesomelistsio/awesome-lidar-drones):** Resources for Lidar-based UAV tech.
+* **[Awesome Agricultural Drones](https://github.com/awesomelistsio/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
+  
 ## Engineering
 
 * **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering):** A curated list of tools, frameworks, resources, and educational content for aerospace engineering.
@@ -171,6 +203,14 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
   
 ## Quantum Computing
 * **[Awesome Quantum Programming Frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
+
+## Privacy, Security & Intelligence
+
+* **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy):** Tools and knowledge to protect your digital privacy.
+* **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint):** Open-source intelligence tools and techniques.
+* **[Awesome Cybersecurity](https://github.com/awesomelistsio/awesome-cybersecurity):** Cybersecurity frameworks and tools.
+* **[Awesome Threat Intelligence](https://github.com/awesomelistsio/awesome-threat-intelligence):** Threat detection and analysis resources.
+* **[Awesome Malware Analysis](https://github.com/awesomelistsio/awesome-malware-analysis):** Tools and labs for analyzing malicious software.
 
 ## Science
 * **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
