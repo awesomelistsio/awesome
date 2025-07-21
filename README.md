@@ -8,6 +8,9 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
+- [Cloud Platforms](#cloud-platforms)
+- [Code Editors](#code-editors)
+- [Creator Support Platforms](#creator-support-platforms)
 - [Cryptocurrency](#cryptocurrency)
 - [Databases](#databases)
 - [Decentralized Systems](#decentralized-systems)
@@ -25,8 +28,10 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 - [Quantum Computing](#quantum-computing)
 - [Privacy, Security & Intelligence](#privacy-security--intelligence)
 - [Science](#science)
+- [Social & Creator Platforms](#social--creator-platforms)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
+- [Technology Giants](#technology-giants)
 - [Travel](#travel)
 - [Web Optimization](#web-optimization)
 
@@ -62,6 +67,20 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
 
+## Cloud Platforms
+
+* **[Awesome Azure](https://github.com/awesomelistsio/awesome-azure):** A curated list of awesome tools, resources, libraries, learning materials, and services related to Microsoft Azure.
+
+## Code Editors
+
+* **[Awesome Visual Studio Code](https://github.com/awesomelistsio/awesome-vscode):** A curated list of awesome Visual Studio Code extensions, resources, themes, and tools.
+
+## Creator Support Platforms
+
+* **[Awesome Ko-fi](https://github.com/awesomelistsio/awesome-ko-fi):** A curated list of awesome tools, resources, guides, and integrations for using Ko-fi.
+* **[Awesome Patreon](https://github.com/awesomelistsio/awesome-patreon):** A curated list of awesome tools, resources, guides, and integrations for creators using Patreon.
+* **[Awesome Buy Me a Coffee](https://github.com/awesomelistsio/awesome-buymeacoffee):** A curated list of tools, resources, guides, and integrations for creators using Buy Me a Coffee.
+  
 ## Cryptocurrency
 
 * **[Awesome Altcoins](https://github.com/awesomelistsio/awesome-altcoins):** A collection of resources, tools, and information for alternative cryptocurrencies beyond Bitcoin and Ethereum.
@@ -217,6 +236,15 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Oceanography](https://github.com/awesomelistsio/awesome-oceanography):** A curated list of awesome resources, tools, data, and organizations for the study and exploration of the ocean.
 * **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
 
+## Social & Creator Platforms
+
+* **[Awesome Facebook](https://github.com/awesomelistsio/awesome-facebook):** A curated list of high-quality tools, libraries, resources, and guides for working with Facebook.
+* **[Awesome Instagram](https://github.com/awesomelistsio/awesome-instagram):** A curated list of high-quality tools, libraries, resources, and guides for working with Instagram.
+* **[Awesome LinkedIn](https://github.com/awesomelistsio/awesome-linkedin):** A curated list of high-quality tools, libraries, resources, and guides for working with LinkedIn.
+* **[Awesome GitHub](https://github.com/awesomelistsio/awesome-github):** A curated list of high-quality tools, resources, libraries, and guides for working with GitHub.
+* **[Awesome YouTube](https://github.com/awesomelistsio/awesome-youtube):** A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.
+* **[Awesome Pinterest](https://github.com/awesomelistsio/awesome-pinterest):** A curated list of high-quality tools, resources, guides, and communities for Pinterest marketers, creators, and enthusiasts.
+
 ## Sustainability and Green Tech
 * **[Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets):** A curated list of tools, frameworks, datasets, standards, platforms, and projects for carbon accounting, carbon offsetting, and sustainability tracking.
 * **[Awesome Climate Tech](https://github.com/awesomelistsio/awesome-climate-tech):** A curated list of high-quality resources, startups, tools, and frameworks driving innovation in climate technology.
@@ -225,6 +253,11 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 
 ## Space Technology
 * **[Awesome Open Source Space Data APIs](https://github.com/awesomelistsio/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
+
+## Technology Giants
+
+* **[Awesome Google](https://github.com/awesomelistsio/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
+* **[Awesome Microsoft](https://github.com/awesomelistsio/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
 
 ## Travel
 * **[Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
