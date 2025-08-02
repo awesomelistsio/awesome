@@ -204,7 +204,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Erlang](https://github.com/awesomelistsio/awesome-erlang):** A curated list of awesome frameworks, libraries, tools, and resources for Erlang programming.
 * **[Awesome Go](https://github.com/awesomelistsio/awesome-go):** A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
 * **[Awesome Haskell](https://github.com/awesomelistsio/awesome-haskell):** A curated list of awesome Haskell resources and tips.
-* **JavaScript** 
+* **[JavaScript](https://github.com/awesomelistsio/awesome-javascript)** A curated list of awesome JavaScript libraries, frameworks, tools, and resources.
   *  **[Awesome npm](https://github.com/awesomelistsio/awesome-npm):** A curated list of awesome npm resources, tips, and best practices.
 * **[Awesome OCaml](https://github.com/awesomelistsio/awesome-ocaml):** A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
 * **[Awesome Java](https://github.com/awesomelistsio/awesome-java):** A curated list of awesome frameworks, libraries, tools, and resources for Java programming.
