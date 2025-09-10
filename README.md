@@ -57,6 +57,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai):** A curated list of OpenAI tools, APIs, research, SDKs, and community resources.
 * **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering):** A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) and generative AI.
 * **[Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning):** A collection of tools, frameworks, and research papers for reinforcement learning.
+- **[Awesome Computational Linguistics](https://github.com/awesomelistsio/awesome-computational-linguistics)** — A curated list of awesome resources, tools, datasets, papers, and libraries for computational linguistics and natural language processing (NLP).
 
 ## Blogging
 
@@ -66,10 +67,13 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Microblogging](https://github.com/awesomelistsio/awesome-microblogging):** A curated list of tools, platforms, resources, and strategies for microblogging.
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
+- **[Awesome Self Publishing](https://github.com/awesomelistsio/awesome-self-publishing)** — A curated list of awesome tools, resources, communities, and platforms for self-publishing authors.
 
 ## Cloud Platforms
 
 * **[Awesome Azure](https://github.com/awesomelistsio/awesome-azure):** A curated list of awesome tools, resources, libraries, learning materials, and services related to Microsoft Azure.
+- **[Awesome Serverless](https://github.com/awesomelistsio/awesome-serverless)** — A curated list of awesome services, frameworks, tools, and resources for building serverless applications.
+- **[Awesome AWS](https://github.com/awesomelistsio/awesome-aws)** — A curated list of awesome tools, guides, open-source libraries, and educational resources for Amazon Web Services (AWS).
 
 ## Code Editors
 
@@ -117,6 +121,14 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Web3 Development](https://github.com/awesomelistsio/awesome-web3-development):** Tools, frameworks, and resources for building decentralized applications (dApps) using Web3 technologies.
 * **[Awesome Zero-Knowledge Proofs](https://github.com/awesomelistsio/awesome-zero-knowledge-proofs):** A curated list of awesome libraries, tools, frameworks, and resources for Zero-Knowledge Proofs (ZKPs).
 
+## Design & UX
+
+- **[Awesome Web Design](https://github.com/awesomelistsio/awesome-web-design)** — A curated list of awesome resources, tools, books, and inspiration for web designers.
+- **[Awesome UX](https://github.com/awesomelistsio/awesome-ux)** — A curated list of awesome resources, tools, and guides for improving User Experience (UX) design.
+- **[Awesome Icons](https://github.com/awesomelistsio/awesome-icons)** — A curated list of awesome icon packs, libraries, tools, and resources for web and app design.
+- **[Awesome Figma](https://github.com/awesomelistsio/awesome-figma)** — A curated list of awesome Figma plugins, tools, templates, resources, and community links to boost your design workflow.
+- **[Awesome Design](https://github.com/awesomelistsio/awesome-design)** — A curated list of awesome resources, tools, frameworks, and communities for all things design—UI, UX, product, interaction, and beyond.
+
 ## DevOps and CI/CD
 
 * **[Awesome CI](https://github.com/awesomelistsio/awesome-ci):** A curated list of awesome Continuous Integration (CI) tools, services, workflows, and resources.
@@ -126,6 +138,8 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome QA](https://github.com/awesomelistsio/awesome-qa):** A curated list of Quality Assurance (QA) tools and resources.
 * **[Awesome Testing](https://github.com/awesomelistsio/awesome-testing):** A curated list of testing tools and frameworks.
 * **[Awesome Test Automation](https://github.com/awesomelistsio/awesome-test-automation):** A curated list for automating software testing.
+- **[Awesome Infrastructure as Code](https://github.com/awesomelistsio/awesome-iac)** — A curated list of awesome tools, frameworks, practices, and resources for Infrastructure as Code (IaC).
+- **[Awesome Terraform](https://github.com/awesomelistsio/awesome-terraform)** — A curated list of awesome Terraform modules, tools, resources, and learning material.
   
 ## Digital Marketing
 
@@ -150,6 +164,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome UAV Root Cause Analysis](https://github.com/awesomelistsio/awesome-uav-root-cause-analysis):** Case studies and methodologies for UAV failure analysis.
 * **[Awesome Lidar for Drones](https://github.com/awesomelistsio/awesome-lidar-drones):** Resources for Lidar-based UAV tech.
 * **[Awesome Agricultural Drones](https://github.com/awesomelistsio/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
+- **[Awesome Drone Laws by Country](https://github.com/awesomelistsio/awesome-drone-laws-by-country)** — A curated list of resources, databases, and official sources on drone laws, regulations, and UAV/UAS policies around the world.
   
 ## Engineering
 
@@ -164,6 +179,13 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 ## Frameworks
 
 * **[Awesome Electron](https://github.com/awesomelistsio/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
+- **[Awesome UI Components](https://github.com/awesomelistsio/awesome-ui-components)** — A curated list of awesome UI component libraries, frameworks, kits, and resources for building beautiful, reusable user interfaces.
+- **[Awesome WordPress Headless](https://github.com/awesomelistsio/awesome-wordpress-headless/tree/main)** — A curated list of resources, tools, frameworks, and guides for building headless WordPress websites.
+- **[Awesome Jekyll](https://github.com/awesomelistsio/awesome-jekyll)** — A curated list of awesome tools, themes, plugins, and resources for Jekyll.
+- **[Awesome CMS](https://github.com/awesomelistsio/awesome-cms)** — A curated list of awesome content management systems (CMS), libraries, tools, platforms, and resources.
+- **[Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)** — A curated list of awesome Headless CMS platforms, tools, resources, and guides for decoupled content management.
+- **[Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)** — A curated list of awesome tools, resources, services, and guides for building websites and apps with the JAMstack architecture.
+- **[Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwindcss)** — A curated list of awesome tools, components, templates, and resources for Tailwind CSS.
 
 ## Gaming Development
 
@@ -182,6 +204,10 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 ## Platforms
 
 * **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
+- **[Awesome GitHub Pages](https://github.com/awesomelistsio/awesome-github-pages)** — A curated list of awesome resources, tools, templates, and tips for using GitHub Pages.
+- **[Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)** — A curated list of awesome services, platforms, and tools for building, hosting, and managing static websites.
+- **[Awesome Amazon](https://github.com/awesomelistsio/awesome-amazon)** — A curated list of tools, APIs, extensions, guides, and platforms related to Amazon and its ecosystem.
+- **[Awesome Shopify](https://github.com/awesomelistsio/awesome-shopify)** — A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.
 
 ## Politics & Society
 
@@ -219,9 +245,12 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
 * **[Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript):** A curated list of awesome tools, libraries, frameworks, and resources for TypeScript.
+- **[Awesome HTML5](https://github.com/awesomelistsio/awesome-html5)** — A curated list of awesome HTML5 resources, tools, frameworks, and learning materials.
+- **[Awesome CSS](https://github.com/awesomelistsio/awesome-css)** — A curated list of awesome CSS frameworks, libraries, tools, resources, and inspiration.
   
 ## Quantum Computing
 * **[Awesome Quantum Programming Frameworks](https://github.com/awesomelistsio/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
+- **[Awesome Quantum Computing](https://github.com/awesomelistsio/awesome-quantum-computing)** — A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.
 
 ## Privacy, Security & Intelligence
 
@@ -244,6 +273,11 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome GitHub](https://github.com/awesomelistsio/awesome-github):** A curated list of high-quality tools, resources, libraries, and guides for working with GitHub.
 * **[Awesome YouTube](https://github.com/awesomelistsio/awesome-youtube):** A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.
 * **[Awesome Pinterest](https://github.com/awesomelistsio/awesome-pinterest):** A curated list of high-quality tools, resources, guides, and communities for Pinterest marketers, creators, and enthusiasts.
+- **[Awesome Substack](https://github.com/awesomelistsio/awesome-substack)** — A curated list of awesome tools, tips, guides, and resources for writers, publishers, and creators using Substack.
+- **[Awesome Medium](https://github.com/awesomelistsio/awesome-medium)** — A curated list of awesome tools, tips, extensions, and resources for writers, readers, and publishers on Medium.
+- **[Awesome Dribbble](https://github.com/awesomelistsio/awesome-dribbble)** — A curated list of awesome tools, tips, profiles, and resources for designers using Dribbble.
+- **[Awesome CodePen](https://github.com/awesomelistsio/awesome-codepen)** — A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.
+- **[Awesome X](https://github.com/awesomelistsio/awesome-x)** — A curated list of high-quality tools, libraries, resources, and guides for working with X (formerly Twitter).
 
 ## Sustainability and Green Tech
 * **[Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets):** A curated list of tools, frameworks, datasets, standards, platforms, and projects for carbon accounting, carbon offsetting, and sustainability tracking.
@@ -258,10 +292,12 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 
 * **[Awesome Google](https://github.com/awesomelistsio/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
 * **[Awesome Microsoft](https://github.com/awesomelistsio/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
+- **[Awesome Elon Musk](https://github.com/awesomelistsio/awesome-elon-musk)** — A curated list of resources, projects, interviews, documentaries, articles, and communities related to Elon Musk.
 
 ## Travel
 * **[Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
 * **[Awesome Travel Hacking](https://github.com/awesomelistsio/awesome-travel-hacking):** A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.
+- **[Awesome Solo Traveler](https://github.com/awesomelistsio/awesome-solo-traveler)** — A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
 
 ## Web Optimization
 
