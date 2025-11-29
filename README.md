@@ -55,6 +55,7 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 * **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
 * **[Awesome Deep Learning](https://github.com/awesomelistsio/awesome-deep-learning):** A curated collection of resources and frameworks for deep learning and neural networks.
 * **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai):** Tools, models, datasets, papers, and resources related to generative artificial intelligence.
+* **[Awesome Hugging Face](https://github.com/awesomelistsio/awesome-hugging-face):** A curated list of libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 * **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain):** Tools, resources, examples, and projects using LangChain for language-model-powered applications.
 * **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops):** Tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 * **[Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning):** A comprehensive list of libraries, frameworks, and tools for machine learning.
