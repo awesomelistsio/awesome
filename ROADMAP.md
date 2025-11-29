@@ -15,15 +15,21 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Lua**  
 - [ ] **Awesome MATLAB**  
 - [ ] **Awesome PHP**  
-- [ ] **Awesome SQL**
+- [X] **Awesome SQL**
+- [ ] **Awesome Assembly / x86 / ARM**
+- [ ] **Awesome D**
+- [ ] **Awesome F#**
+- [ ] **Awesome Nim**
+- [ ] **Awesome Zig**
+- [ ] **Awesome Cobol**
 
 # 2. Frameworks
 
 - [ ] **Awesome React**  
 - [ ] **Awesome Vue**  
-- [ ] **Awesome Angular**  
+- [X] **Awesome Angular**  
 - [ ] **Awesome Svelte**  
-- [ ] **Awesome Next.js**  
+- [X] **Awesome Next.js**  
 - [ ] **Awesome Nuxt.js**  
 - [ ] **Awesome Astro**  
 - [ ] **Awesome Django**  
@@ -38,7 +44,7 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 3. Cloud Platforms
 
-- [ ] **Awesome Google Cloud Platform (GCP)**  
+- [X] **Awesome Google Cloud Platform (GCP)**  
 - [ ] **Awesome Cloudflare / Cloudflare Workers / Edge Platform**  
 - [ ] **Awesome DigitalOcean**  
 - [ ] **Awesome Netlify**  
@@ -51,7 +57,7 @@ This roadmap outlines planned and potential expansions across major categories i
 
 - [ ] **Awesome Firebase**  
 - [ ] **Awesome Supabase**  
-- [ ] **Awesome GitHub (Platform-focused)**  
+- [X] **Awesome GitHub**  
 - [ ] **Awesome GitLab**  
 - [ ] **Awesome Bitbucket**  
 - [ ] **Awesome Stripe**  
@@ -66,11 +72,18 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Model Serving**  
 - [ ] **Awesome Foundation Models**
 - [ ] **Awesome AI Hardware**
+- [ ] **Awesome Open Source AI Models**
+- [ ] **Awesome Autonomous Systems / Robotics AI**
+- [ ] **Awesome AI Governance**
+- [ ] **Awesome AI for Education**
+- [ ] **Awesome AI APIs**
+- [ ] **Awesome AI for Data Engineering**
+- [ ] **Awesome AI for Climate & Sustainability**
 
 # 6. DevOps, CI/CD, and Infrastructure
 
 - [ ] **Awesome Containers / Containerization**  
-- [ ] **Awesome Docker**  
+- [X] **Awesome Docker**  
 - [ ] **Awesome Kubernetes Operators**  
 - [ ] **Awesome Observability / Monitoring**  
 - [ ] **Awesome SRE (Site Reliability Engineering)**  
@@ -78,8 +91,8 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 7. Databases
 
-- [ ] **Awesome Redis**  
-- [ ] **Awesome SQLite**  
+- [X] **Awesome Redis**  
+- [X] **Awesome SQLite**  
 - [ ] **Awesome Elasticsearch**  
 - [ ] **Awesome Neo4j / Graph Databases**  
 - [ ] **Awesome Timeseries Databases**
