@@ -38,26 +38,35 @@ If you're a solo traveler, digital nomad, or global explorer, consider checking 
 ## Artificial Intelligence (AI)
 
 * **[Awesome AI](https://github.com/awesomelistsio/awesome-ai):** A general list of resources, libraries, and tools for artificial intelligence.
+* **[Awesome AI Agents](https://github.com/awesomelistsio/awesome-ai-agents):** A curated list of frameworks, tools, platforms, and resources for building AI agents — autonomous or semi-autonomous systems with planning, memory, tool use, and multi-step reasoning.
 * **[Awesome AI Art](https://github.com/awesomelistsio/awesome-ai-art):** A curated list of tools, platforms, datasets, and resources for creating, exploring, and understanding AI-generated art.
+* **[Awesome AI Benchmarks & Evaluation](https://github.com/awesomelistsio/awesome-ai-benchmarks-evaluation):** Evaluation tools, benchmark datasets, leaderboards, frameworks, and resources for assessing model performance across reasoning, safety, robustness, multimodality, RAG, LLMs, and traditional ML tasks.
 * **[Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics):** Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.
 * **[Awesome AI for Edge Computing](https://github.com/awesomelistsio/awesome-ai-edge-computing):** Tools and frameworks for running AI models on edge devices and IoT.
-* **[Awesome AI in Healthcare](https://github.com/awesomelistsio/awesome-ai-healthcare):** A curated list of tools, frameworks, applications, datasets, and resources for AI in Healthcare.
+* **[Awesome AI in Healthcare](https://github.com/awesomelistsio/awesome-ai-healthcare):** A curated list of tools, frameworks, applications, datasets, and resources for AI in healthcare.
 * **[Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure):** Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.
 * **[Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers):** A curated list of influential AI research papers and academic resources.
+* **[Awesome AI Research Tools](https://github.com/awesomelistsio/awesome-ai-research-tools):** Tools, platforms, libraries, and resources to support AI and ML research — experimentation, literature search, dataset exploration, evaluation, visualization, and reproducibility.
+* **[Awesome AI Safety & Alignment](https://github.com/awesomelistsio/awesome-ai-safety-alignment):** Research, frameworks, tools, evaluations, and resources focused on AI alignment, safety, robustness, governance, and responsible development.
+* **[Awesome AI Security](https://github.com/awesomelistsio/awesome-ai-security):** Tools, frameworks, benchmarks, research, and resources focused on adversarial attacks, robustness, data poisoning, red teaming, model extraction, jailbreak defense, secure inference, and privacy-preserving AI.
 * **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt):** A curated list of tools, extensions, prompts, projects, and resources for ChatGPT and the OpenAI ecosystem.
 * **[Awesome ChatGPT Prompts](https://github.com/awesomelistsio/awesome-chatgpt-prompts):** A curated list of high-quality ChatGPT prompts for productivity, creativity, learning, development, and fun.
+* **[Awesome Computational Linguistics](https://github.com/awesomelistsio/awesome-computational-linguistics):** A curated list of resources, tools, datasets, papers, and libraries for computational linguistics and NLP.
 * **[Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision):** A list of resources for computer vision, including libraries, frameworks, and datasets.
 * **[Awesome Deep Learning](https://github.com/awesomelistsio/awesome-deep-learning):** A curated collection of resources and frameworks for deep learning and neural networks.
-* **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai):** A curated list of tools, models, datasets, papers, and resources related to generative artificial intelligence.
-* **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain):** A curated list of resources, tools, examples, and projects using LangChain, the framework for developing applications powered by language models.
-* **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops):** A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
+* **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai):** Tools, models, datasets, papers, and resources related to generative artificial intelligence.
+* **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain):** Tools, resources, examples, and projects using LangChain for language-model-powered applications.
+* **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops):** Tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 * **[Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning):** A comprehensive list of libraries, frameworks, and tools for machine learning.
+* **[Awesome Multimodal AI](https://github.com/awesomelistsio/awesome-multimodal-ai):** Models, tools, libraries, datasets, and resources for multimodal AI across text, image, audio, video, and sensor data.
 * **[Awesome Natural Language Processing (NLP)](https://github.com/awesomelistsio/awesome-nlp):** Tools, libraries, and datasets for NLP and text analysis.
-* **[Awesome NFT Development)](https://github.com/awesomelistsio/awesome-nft-development):** A curated list of tools, frameworks, standards, tutorials, and platforms for developing NFTs (Non-Fungible Tokens).
-* **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai):** A curated list of OpenAI tools, APIs, research, SDKs, and community resources.
-* **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering):** A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) and generative AI.
-* **[Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning):** A collection of tools, frameworks, and research papers for reinforcement learning.
-- **[Awesome Computational Linguistics](https://github.com/awesomelistsio/awesome-computational-linguistics)** — A curated list of awesome resources, tools, datasets, papers, and libraries for computational linguistics and natural language processing (NLP).
+* **[Awesome NFT Development](https://github.com/awesomelistsio/awesome-nft-development):** Tools, frameworks, standards, tutorials, and platforms for developing NFTs.
+* **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai):** OpenAI tools, APIs, research, SDKs, and community resources.
+* **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering):** Resources, tools, papers, and platforms for prompt engineering in LLMs and generative AI.
+* **[Awesome RAG (Retrieval-Augmented Generation)](https://github.com/awesomelistsio/awesome-rag):** Tools, frameworks, and resources for Retrieval-Augmented Generation systems.
+* **[Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning):** Tools, frameworks, and research papers for reinforcement learning.
+* **[Awesome Synthetic Data](https://github.com/awesomelistsio/awesome-synthetic-data):** Tools, models, datasets, and resources for generating and applying synthetic data.
+* **[Awesome UAV & Drone AI](https://github.com/awesomelistsio/awesome-uav-drone-ai):** AI, ML, computer vision, and autonomy resources for UAVs, drones, quadcopters, and aerial robotics, including navigation, SLAM, flight control, planning, and perception.
 
 ## Blogging
 
