@@ -2,7 +2,8 @@
 
 > A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights, and beyond – designed to inform, empower, and connect curious minds.
 
-> 🛠️ Status: Actively maintained · 🎯 Focus: AI, decentralized systems, sustainability, travel, and modern web ecosystems.
+> 🛠️ Status: Actively maintained  
+> 🎯 Focus: AI, decentralized systems, sustainability, travel, and modern web ecosystems.
 
 If you're a solo traveler, digital nomad, or global explorer, consider checking out [Awesome Lists for Travelers](https://github.com/brandontravel/awesome).
 
