@@ -5,16 +5,16 @@ This roadmap outlines planned and potential expansions across major categories i
 # 1. Programming Languages
 
 - [ ] **Awesome Bash / Shell**  
-- [ ] **Awesome C**  
+- [X] **Awesome C**  
 - [ ] **Awesome C++**  
 - [ ] **Awesome C#**  
 - [ ] **Awesome Clojure**  
 - [ ] **Awesome Dart**  
 - [ ] **Awesome Elixir**  
 - [ ] **Awesome Fortran**  
-- [ ] **Awesome Lua**  
-- [ ] **Awesome MATLAB**  
-- [ ] **Awesome PHP**  
+- [X] **Awesome Lua**  
+- [X] **Awesome MATLAB**  
+- [X] **Awesome PHP**  
 - [X] **Awesome SQL**
 - [ ] **Awesome Assembly / x86 / ARM**
 - [ ] **Awesome D**
@@ -32,9 +32,9 @@ This roadmap outlines planned and potential expansions across major categories i
 - [X] **Awesome Next.js**  
 - [ ] **Awesome Nuxt.js**  
 - [ ] **Awesome Astro**  
-- [ ] **Awesome Django**  
+- [X] **Awesome Django**  
 - [ ] **Awesome Flask**  
-- [ ] **Awesome Laravel**  
+- [X] **Awesome Laravel**  
 - [ ] **Awesome Spring / Spring Boot**  
 - [ ] **Awesome .NET / ASP.NET Core**  
 - [ ] **Awesome Express.js**  
@@ -158,3 +158,13 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Economics & Finance**
 - [ ] **Awesome Education / Learning Platforms**
 
+# 16. UAVs & Drone Systems
+- [ ] **Awesome Drone Simulation**
+- [X] **Awesome UAV Autonomy**
+- [X] **Awesome Drone Photography & Cinematography**
+- [ ] **Awesome Counter-UAS / Anti-Drone Systems**
+- [ ] **Awesome Search & Rescue Drones**
+- [ ] **Awesome Maritime & Aerial Robotics Hybrids**
+- [ ] **Awesome UAV Sensors**
+- [ ] **Awesome UAV Data Pipelines**
+      
