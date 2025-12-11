@@ -38,7 +38,6 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Technology Giants](#technology-giants)
-- [Travel](#travel)
 - [Web Optimization](#web-optimization)
 
 ## Artificial Intelligence (AI)
@@ -310,11 +309,6 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Elon Musk](https://github.com/awesomelistsio/awesome-elon-musk)** A curated list of resources, projects, interviews, documentaries, articles, and communities related to Elon Musk.
 * **[Awesome Google](https://github.com/awesomelistsio/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
 * **[Awesome Microsoft](https://github.com/awesomelistsio/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
-
-## Travel
-* **[Awesome Digital Nomads](https://github.com/awesomelistsio/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
-* **[Awesome Travel Hacking](https://github.com/awesomelistsio/awesome-travel-hacking):** A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.
-* **[Awesome Solo Traveler](https://github.com/awesomelistsio/awesome-solo-traveler)** A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
 
 ## Web Optimization
 
