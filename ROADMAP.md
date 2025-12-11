@@ -126,15 +126,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Environmental Data**  
 - [ ] **Awesome Sustainable Architecture**
       
-# 12. Travel
-
-- [ ] **Awesome Backpacking**  
-- [ ] **Awesome Budget Travel**  
-- [ ] **Awesome Remote Work Visas**  
-- [ ] **Awesome Cultural Etiquette Guides**  
-- [ ] **Awesome RV / Vanlife Travel**
-
-# 13. Social & Creator Platforms
+# 12. Social & Creator Platforms
 
 - [ ] **Awesome TikTok**  
 - [ ] **Awesome Reddit**  
@@ -143,13 +135,13 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Tumblr**
 - [ ] **Awesome Bluesky**
 
-# 14. Web Optimization
+# 13. Web Optimization
 
 - [ ] **Awesome Core Web Vitals**  
 - [ ] **Awesome Frontend Optimization**  
 - [ ] **Awesome Image Optimization**
 
-# 15. Potential New Categories
+# 14. Potential New Categories
 
 - [ ] **Awesome Data Engineering**  
 - [ ] **Awesome Machine Learning Engineering**
@@ -158,7 +150,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Economics & Finance**
 - [ ] **Awesome Education / Learning Platforms**
 
-# 16. UAVs & Drone Systems
+# 15. UAVs & Drone Systems
 - [ ] **Awesome Drone Simulation**
 - [X] **Awesome UAV Autonomy**
 - [X] **Awesome Drone Photography & Cinematography**
@@ -167,4 +159,3 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Maritime & Aerial Robotics Hybrids**
 - [ ] **Awesome UAV Sensors**
 - [ ] **Awesome UAV Data Pipelines**
-      
