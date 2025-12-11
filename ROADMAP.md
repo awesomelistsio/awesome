@@ -40,7 +40,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Express.js**  
 - [ ] **Awesome FastAPI**  
 - [ ] **Awesome Phoenix (Elixir)**  
-- [ ] **Awesome Rails (Ruby on Rails)**
+- [X] **Awesome Rails (Ruby on Rails)**
 
 # 3. Cloud Platforms
 
@@ -60,7 +60,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [X] **Awesome GitHub**  
 - [ ] **Awesome GitLab**  
 - [ ] **Awesome Bitbucket**  
-- [ ] **Awesome Stripe**  
+- [X] **Awesome Stripe**  
 - [ ] **Awesome Render**  
 - [ ] **Awesome Railway**  
 - [ ] **Awesome Fly.io**  
