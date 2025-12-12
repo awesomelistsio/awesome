@@ -14,10 +14,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
+- [Business & Economics](#business-economics)
 - [Cloud Platforms](#cloud-platforms)
 - [Code Editors](#code-editors)
 - [Creator Support Platforms](#creator-support-platforms)
 - [Cryptocurrency](#cryptocurrency)
+- [Data & Analytics](#data-analytics)
 - [Databases](#databases)
 - [Decentralized Systems](#decentralized-systems)
 - [DevOps and CI/CD](#devops-and-cicd)
@@ -84,6 +86,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Travel Blogging](https://github.com/awesomelistsio/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress):** A curated list of resources for WordPress.
 
+## Business & Economics
+
 ## Cloud Platforms
 
 * **[Awesome AWS](https://github.com/awesomelistsio/awesome-aws)** A curated list of awesome tools, guides, open-source libraries, and educational resources for Amazon Web Services (AWS).
@@ -113,6 +117,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Ethereum](https://github.com/awesomelistsio/awesome-ethereum):** A comprehensive list of resources, tools, and development frameworks for Ethereum.
 * **[Awesome Privacy Coins](https://github.com/awesomelistsio/awesome-privacy-coins):** Resources and tools focused on privacy-oriented cryptocurrencies (e.g., Monero, Zcash).
 * **[Awesome Smart Contracts](https://github.com/awesomelistsio/awesome-smart-contracts):** Libraries, tools, and frameworks for developing and auditing smart contracts.
+
+## Data & Analytics
 
 ## Databases
 * **[Awesome Cassandra](https://github.com/awesomelistsio/awesome-cassandra):** A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.
