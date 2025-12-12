@@ -20,7 +20,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome D**
 - [ ] **Awesome F#**
 - [ ] **Awesome Nim**
-- [ ] **Awesome Zig**
+- [X] **Awesome Zig**
 - [ ] **Awesome Cobol**
 
 # 2. Frameworks
@@ -33,7 +33,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Nuxt.js**  
 - [ ] **Awesome Astro**  
 - [X] **Awesome Django**  
-- [ ] **Awesome Flask**  
+- [X] **Awesome Flask**  
 - [X] **Awesome Laravel**  
 - [ ] **Awesome Spring / Spring Boot**  
 - [ ] **Awesome .NET / ASP.NET Core**  
@@ -50,7 +50,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Netlify**  
 - [ ] **Awesome Vercel**  
 - [ ] **Awesome Oracle Cloud Infrastructure (OCI)**  
-- [ ] **Awesome Heroku**  
+- [X] **Awesome Heroku**  
 - [ ] **Awesome IBM Cloud**
 
 # 4. Platforms
@@ -109,13 +109,13 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Video Editing**  
 - [ ] **Awesome Photography**  
 - [ ] **Awesome Streaming Technology**  
-- [ ] **Awesome Audio Engineering**
+- [X] **Awesome Audio Engineering**
 
 # 10. Science & Research
 
 - [ ] **Awesome Biology / Bioinformatics**  
-- [ ] **Awesome Physics**  
-- [ ] **Awesome Chemistry**  
+- [X] **Awesome Physics**  
+- [X] **Awesome Chemistry**  
 - [ ] **Awesome Earth Science / Geology**  
 - [ ] **Awesome Space Science**
 
