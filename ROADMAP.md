@@ -147,7 +147,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Machine Learning Engineering**
 - [ ] **Awesome Product Management**  
 - [ ] **Awesome Remote Work & Productivity**  
-- [ ] **Awesome Economics & Finance**
+- [X] **Awesome Economics & Finance**
 - [ ] **Awesome Education / Learning Platforms**
 
 # 15. UAVs & Drone Systems
@@ -159,3 +159,39 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Maritime & Aerial Robotics Hybrids**
 - [ ] **Awesome UAV Sensors**
 - [ ] **Awesome UAV Data Pipelines**
+
+# 16. Data & Analytics
+
+- [ ] **Awesome Data Analytics**  
+- [ ] **Awesome Data Visualization**  
+- [ ] **Awesome Data Quality**  
+- [ ] **Awesome Data Governance**  
+- [ ] **Awesome Data Catalogs & Metadata**  
+- [ ] **Awesome ELT / ETL Tools**  
+- [ ] **Awesome Data Warehousing**  
+- [ ] **Awesome Lakehouse**  
+- [ ] **Awesome Data Pipelines & Orchestration**  
+- [ ] **Awesome Data Observability**  
+- [ ] **Awesome Streaming Data / Event Streaming**  
+- [ ] **Awesome Business Intelligence (BI)**  
+- [ ] **Awesome Metrics & Experimentation (A/B Testing)**  
+- [ ] **Awesome Analytics Engineering**  
+- [ ] **Awesome Data Contracts**
+
+# 17. Business & Economics
+
+- [ ] **Awesome Economics**  
+- [ ] **Awesome Finance**  
+- [ ] **Awesome FinTech**  
+- [ ] **Awesome Accounting & Bookkeeping**  
+- [ ] **Awesome Corporate Finance**  
+- [ ] **Awesome Personal Finance**  
+- [ ] **Awesome Investing**  
+- [ ] **Awesome Banking APIs / Open Banking**  
+- [ ] **Awesome Payments**  
+- [ ] **Awesome E-commerce**  
+- [ ] **Awesome Entrepreneurship & Startups**  
+- [ ] **Awesome Product Management**  
+- [ ] **Awesome Business Operations (BizOps)**  
+- [ ] **Awesome Sales Operations (RevOps)**  
+- [ ] **Awesome Market Research & Competitive Intelligence**
