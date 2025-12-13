@@ -11,7 +11,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Clojure**  
 - [ ] **Awesome Dart**  
 - [ ] **Awesome Elixir**  
-- [ ] **Awesome Fortran**  
+- [X] **Awesome Fortran**  
 - [X] **Awesome Lua**  
 - [X] **Awesome MATLAB**  
 - [X] **Awesome PHP**  
@@ -46,7 +46,7 @@ This roadmap outlines planned and potential expansions across major categories i
 
 - [X] **Awesome Google Cloud Platform (GCP)**  
 - [ ] **Awesome Cloudflare / Cloudflare Workers / Edge Platform**  
-- [ ] **Awesome DigitalOcean**  
+- [X] **Awesome DigitalOcean**  
 - [ ] **Awesome Netlify**  
 - [ ] **Awesome Vercel**  
 - [ ] **Awesome Oracle Cloud Infrastructure (OCI)**  
@@ -58,7 +58,7 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Firebase**  
 - [ ] **Awesome Supabase**  
 - [X] **Awesome GitHub**  
-- [ ] **Awesome GitLab**  
+- [X] **Awesome GitLab**  
 - [ ] **Awesome Bitbucket**  
 - [X] **Awesome Stripe**  
 - [ ] **Awesome Render**  
@@ -68,7 +68,7 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 5. AI Ecosystems
 
-- [ ] **Awesome AutoML**  
+- [X] **Awesome AutoML**  
 - [ ] **Awesome Model Serving**  
 - [ ] **Awesome Foundation Models**
 - [ ] **Awesome AI Hardware**
