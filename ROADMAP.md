@@ -162,7 +162,7 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 16. Data & Analytics
 
-- [ ] **Awesome Data Analytics**  
+- [X] **Awesome Data Analytics**  
 - [ ] **Awesome Data Visualization**  
 - [ ] **Awesome Data Quality**  
 - [ ] **Awesome Data Governance**  
@@ -180,9 +180,9 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 17. Business & Economics
 
-- [ ] **Awesome Economics**  
-- [ ] **Awesome Finance**  
-- [ ] **Awesome FinTech**  
+- [X] **Awesome Economics**  
+- [X] **Awesome Finance**  
+- [X] **Awesome FinTech**  
 - [ ] **Awesome Accounting & Bookkeeping**  
 - [ ] **Awesome Corporate Finance**  
 - [ ] **Awesome Personal Finance**  
