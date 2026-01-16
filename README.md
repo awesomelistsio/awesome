@@ -61,6 +61,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome AI Research Tools](https://github.com/awesomelistsio/awesome-ai-research-tools):** Tools, platforms, libraries, and resources to support AI and ML research — experimentation, literature search, dataset exploration, evaluation, visualization, and reproducibility.
 * **[Awesome AI Safety & Alignment](https://github.com/awesomelistsio/awesome-ai-safety-alignment):** Research, frameworks, tools, evaluations, and resources focused on AI alignment, safety, robustness, governance, and responsible development.
 * **[Awesome AI Security](https://github.com/awesomelistsio/awesome-ai-security):** Tools, frameworks, benchmarks, research, and resources focused on adversarial attacks, robustness, data poisoning, red teaming, model extraction, jailbreak defense, secure inference, and privacy-preserving AI.
+* **[Awesome AutoML](https://github.com/awesomelistsio/awesome-automl):** A curated list of frameworks, platforms, tools, research, and learning resources for Automated Machine Learning (AutoML).
 * **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt):** A curated list of tools, extensions, prompts, projects, and resources for ChatGPT and the OpenAI ecosystem.
 * **[Awesome ChatGPT Prompts](https://github.com/awesomelistsio/awesome-chatgpt-prompts):** A curated list of high-quality ChatGPT prompts for productivity, creativity, learning, development, and fun.
 * **[Awesome Computational Linguistics](https://github.com/awesomelistsio/awesome-computational-linguistics):** A curated list of resources, tools, datasets, papers, and libraries for computational linguistics and NLP.
@@ -93,10 +94,20 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Business & Economics
 
+* **[Awesome Economics](https://github.com/awesomelistsio/awesome-economics):** A curated list of datasets, tools, models, institutions, and learning resources for economics.
+* **[Awesome Finance](https://github.com/awesomelistsio/awesome-finance):** A curated list of tools, platforms, datasets, libraries, and learning materials for finance.
+* **[Awesome FinTech](https://github.com/awesomelistsio/awesome-fintech):** A curated list of platforms, APIs, tools, frameworks, standards, and learning resources for Financial Technology.
+* **[Awesome Payments](https://github.com/awesomelistsio/awesome-payments):** A curated list of platforms, APIs, tools, standards, and learning resources for payments.
+* **[Awesome SaaS](https://github.com/awesomelistsio/awesome-saas):** A curated list of tools, frameworks, APIs, platforms, and learning resources for building and operating SaaS products.
+
 ## Cloud Platforms
 
 * **[Awesome AWS](https://github.com/awesomelistsio/awesome-aws)** A curated list of awesome tools, guides, open-source libraries, and educational resources for Amazon Web Services (AWS).
 * **[Awesome Azure](https://github.com/awesomelistsio/awesome-azure):** A curated list of awesome tools, resources, libraries, learning materials, and services related to Microsoft Azure.
+* **[Awesome Cloud](https://github.com/awesomelistsio/awesome-cloud):** A curated list of cloud platforms, tools, SDKs, infrastructure services, and learning resources.
+* **[Awesome DigitalOcean](https://github.com/awesomelistsio/awesome-digitalocean):** A curated list of tools, services, tutorials, and integrations for DigitalOcean.
+* **[Awesome Google Cloud Platform](https://github.com/awesomelistsio/awesome-google-cloud-platform):** A curated list of tools, SDKs, libraries, and learning resources for Google Cloud Platform.
+* **[Awesome Heroku](https://github.com/awesomelistsio/awesome-heroku):** A curated list of platforms, tools, add-ons, workflows, and learning resources for Heroku.
 * **[Awesome Serverless](https://github.com/awesomelistsio/awesome-serverless)** A curated list of awesome services, frameworks, tools, and resources for building serverless applications.
 
 ## Code Editors
@@ -113,6 +124,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 * **[Awesome Altcoins](https://github.com/awesomelistsio/awesome-altcoins):** A collection of resources, tools, and information for alternative cryptocurrencies beyond Bitcoin and Ethereum.
 * **[Awesome Bitcoin](https://github.com/awesomelistsio/awesome-bitcoin):** A curated list of tools, libraries, and resources for Bitcoin, the first and most widely used cryptocurrency.
+* **[Awesome Blockchain](https://github.com/awesomelistsio/awesome-blockchain/tree/main):** A curated list of platforms, protocols, tools, frameworks, and learning resources for blockchain technology.
 * **[Awesome Crypto Compliance](https://github.com/awesomelistsio/awesome-crypto-compliance):** A curated list of awesome tools, platforms, frameworks, and resources for regulatory compliance.
 * **[Awesome Crypto Exchanges](https://github.com/awesomelistsio/awesome-crypto-exchanges):** A list of centralized and decentralized cryptocurrency exchanges, including trading tools and analytics.
 * **[Awesome Crypto Mining](https://github.com/awesomelistsio/awesome-crypto-mining):** A collection of resources for cryptocurrency mining, including software, hardware, and mining pools.
@@ -122,8 +134,15 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Ethereum](https://github.com/awesomelistsio/awesome-ethereum):** A comprehensive list of resources, tools, and development frameworks for Ethereum.
 * **[Awesome Privacy Coins](https://github.com/awesomelistsio/awesome-privacy-coins):** Resources and tools focused on privacy-oriented cryptocurrencies (e.g., Monero, Zcash).
 * **[Awesome Smart Contracts](https://github.com/awesomelistsio/awesome-smart-contracts):** Libraries, tools, and frameworks for developing and auditing smart contracts.
+* **[Awesome Web3](https://github.com/awesomelistsio/awesome-web3):** A curated list of platforms, protocols, tools, and learning resources for Web3 and the decentralized web.
 
 ## Data & Analytics
+
+* **[Awesome Business Intelligence](https://github.com/awesomelistsio/awesome-business-intelligence):** A curated list of tools and learning resources for Business Intelligence.
+* **[Awesome Data Analytics](https://github.com/awesomelistsio/awesome-data-analytics):** A curated list of tools, platforms, and frameworks for data analytics.
+* **[Awesome Data Engineering](https://github.com/awesomelistsio/awesome-data-engineering):** A curated list of tools, platforms, and learning resources for data engineering.
+* **[Awesome Data Science](https://github.com/awesomelistsio/awesome-data-science):** A curated list of tools, datasets, workflows, and learning resources for data science.
+* **[Awesome Big Data](https://github.com/awesomelistsio/awesome-big-data):** A curated list of frameworks, platforms, and tools for big data systems.
 
 ## Databases
 * **[Awesome Cassandra](https://github.com/awesomelistsio/awesome-cassandra):** A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.
@@ -132,6 +151,9 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome MongoDB](https://github.com/awesomelistsio/awesome-mongodb):** A curated list of awesome libraries, tools, frameworks, and resources for MongoDB, a NoSQL document database designed for modern application development.
 * **[Awesome MySQL](https://github.com/awesomelistsio/awesome-mysql):** A curated list of awesome frameworks, libraries, tools, and resources for MySQL, a popular open-source relational database management system.
 * **[Awesome PostgreSQL](https://github.com/awesomelistsio/awesome-postgresql):** A curated list of awesome libraries, tools, frameworks, and resources for PostgreSQL, an advanced open-source relational database system known for its performance, extensibility, and SQL compliance.
+* **[Awesome Redis](https://github.com/awesomelistsio/awesome-redis):** A curated list of tools, libraries, and resources for Redis.
+* **[Awesome SQL](https://github.com/awesomelistsio/awesome-sql):** A curated list of SQL databases, tools, clients, and learning resources.
+* **[Awesome SQLite](https://github.com/awesomelistsio/awesome-sqlite):** A curated list of tools and resources for SQLite.
 
 ## Decentralized Systems
 
@@ -158,8 +180,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## DevOps and CI/CD
 
 * **[Awesome CI](https://github.com/awesomelistsio/awesome-ci):** A curated list of awesome Continuous Integration (CI) tools, services, workflows, and resources.
+* **[Awesome CI/CD](https://github.com/awesomelistsio/awesome-cicd):** A curated list of tools and practices for Continuous Integration and Delivery.
 * **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops):** A curated list of awesome tools, resources, and best practices in DevOps.
+* **[Awesome Docker](https://github.com/awesomelistsio/awesome-docker):** A curated list of Docker tools, images, workflows, and learning resources.
 * **[Awesome GitHub Actions](https://github.com/awesomelistsio/awesome-github-actions):** A curated list of high-quality resources, actions, tools, and workflows for GitHub Actions.
+* **[Awesome GitLab](https://github.com/awesomelistsio/awesome-gitlab):** A curated list of tools and workflows for GitLab and DevSecOps.
 * **[Awesome Infrastructure as Code](https://github.com/awesomelistsio/awesome-iac)** A curated list of awesome tools, frameworks, practices, and resources for Infrastructure as Code (IaC).
 * **[Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops):** A curated list of tools, frameworks, platforms, and resources for Machine Learning Operations.
 * **[Awesome QA](https://github.com/awesomelistsio/awesome-qa):** A curated list of Quality Assurance (QA) tools and resources.
@@ -179,6 +204,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Agricultural Drones](https://github.com/awesomelistsio/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
 * **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native):** Tools and frameworks for cloud-native development.
 * **[Awesome Drone Laws by Country](https://github.com/awesomelistsio/awesome-drone-laws-by-country)** A curated list of resources, databases, and official sources on drone laws, regulations, and UAV/UAS policies around the world.
+* **[Awesome Drone Photography & Cinematography](https://github.com/awesomelistsio/awesome-drone-photography-cinematography):** A curated list of tools, techniques, and workflows for drone photography and cinematography.
 * **[Awesome Edge Computing](https://github.com/awesomelistsio/awesome-edge-computing):** Tools and research for edge devices.
 * **[Awesome Flight Controller Software](https://github.com/awesomelistsio/awesome-flight-controller-software):** High-quality flight control software for UAVs.
 * **[Awesome Flight Log Analysis](https://github.com/awesomelistsio/awesome-flight-log-analysis):** Tools to analyze UAV and aircraft flight logs.
@@ -188,6 +214,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Lidar for Drones](https://github.com/awesomelistsio/awesome-lidar-drones):** Resources for Lidar-based UAV tech.
 * **[Awesome Open Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware):** Open-source drone firmware and flight controllers.
 * **[Awesome Swarm Drones](https://github.com/awesomelistsio/awesome-swarm-drones):** Resources for multi-UAV and coordinated drone systems.
+* **[Awesome UAV Autonomy](https://github.com/awesomelistsio/awesome-uav-autonomy):** A curated list of frameworks, algorithms, datasets, and autonomy stacks for UAV systems.
 * **[Awesome UAV Collision Avoidance Systems](https://github.com/awesomelistsio/awesome-uav-collision-avoidance-systems):** Libraries and datasets for UAV safety.
 * **[Awesome UAV Flight Test Planning](https://github.com/awesomelistsio/awesome-uav-flight-test-planning):** Resources for planning UAV test flights.
 * **[Awesome UAV Root Cause Analysis](https://github.com/awesomelistsio/awesome-uav-root-cause-analysis):** Case studies and methodologies for UAV failure analysis.
@@ -196,6 +223,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Engineering
 
 * **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering):** A curated list of tools, frameworks, resources, and educational content for aerospace engineering.
+* **[Awesome Audio Engineering](https://github.com/awesomelistsio/awesome-audio-engineering):** A curated list of tools, workflows, and learning resources for audio engineering.
 * **[Awesome Civil Engineering](https://github.com/awesomelistsio/awesome-civil-engineering):** A curated list of tools, frameworks, resources, and educational content for civil engineering.
 * **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
 * **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering):** A curated list of tools, frameworks, resources, and educational content for environmental engineering.
@@ -205,14 +233,21 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Frameworks
 
+* **[Awesome Angular](https://github.com/awesomelistsio/awesome-angular):** A curated list of libraries and resources for Angular.
+* **[Awesome CMS](https://github.com/awesomelistsio/awesome-cms):** A curated list of awesome content management systems (CMS), libraries, tools, platforms, and resources.
+* **[Awesome Django](https://github.com/awesomelistsio/awesome-django):** A curated list of packages and resources for Django.
 * **[Awesome Electron](https://github.com/awesomelistsio/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
-* **[Awesome UI Components](https://github.com/awesomelistsio/awesome-ui-components)** A curated list of awesome UI component libraries, frameworks, kits, and resources for building beautiful, reusable user interfaces.
-* **[Awesome WordPress Headless](https://github.com/awesomelistsio/awesome-wordpress-headless/tree/main)** A curated list of resources, tools, frameworks, and guides for building headless WordPress websites.
-* **[Awesome Jekyll](https://github.com/awesomelistsio/awesome-jekyll)** A curated list of awesome tools, themes, plugins, and resources for Jekyll.
-* **[Awesome CMS](https://github.com/awesomelistsio/awesome-cms)** A curated list of awesome content management systems (CMS), libraries, tools, platforms, and resources.
-* **[Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)** A curated list of awesome Headless CMS platforms, tools, resources, and guides for decoupled content management.
-* **[Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)** A curated list of awesome tools, resources, services, and guides for building websites and apps with the JAMstack architecture.
-* **[Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwindcss)** A curated list of awesome tools, components, templates, and resources for Tailwind CSS.
+* **[Awesome Flask](https://github.com/awesomelistsio/awesome-flask):** A curated list of tools and extensions for the Flask web framework.
+* **[Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms):** A curated list of awesome Headless CMS platforms, tools, resources, and guides for decoupled content management.
+* **[Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack):** A curated list of awesome tools, resources, services, and guides for building websites and apps with the JAMstack architecture.
+* **[Awesome Jekyll](https://github.com/awesomelistsio/awesome-jekyll):** A curated list of awesome tools, themes, plugins, and resources for Jekyll.
+* **[Awesome Laravel](https://github.com/awesomelistsio/awesome-laravel):** A curated list of packages and ecosystem resources for Laravel.
+* **[Awesome Next.js](https://github.com/awesomelistsio/awesome-next.js):** A curated list of tools, templates, and resources for Next.js.
+* **[Awesome Rails](https://github.com/awesomelistsio/awesome-rails/tree/main):** A curated list of tools and resources for Ruby on Rails.
+* **[Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwindcss):** A curated list of awesome tools, components, templates, and resources for Tailwind CSS.
+* **[Awesome UI Components](https://github.com/awesomelistsio/awesome-ui-components):** A curated list of awesome UI component libraries, frameworks, kits, and resources for building beautiful, reusable user interfaces.
+* **[Awesome WordPress Headless](https://github.com/awesomelistsio/awesome-wordpress-headless/tree/main):** A curated list of resources, tools, frameworks, and guides for building headless WordPress websites.
+
 
 ## Gaming Development
 
@@ -221,6 +256,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Mathematics
 
 * **[Awesome Computational Mathematics](https://github.com/awesomelistsio/awesome-computational-mathematics):** A curated list of tools, frameworks, libraries, and educational resources for computational mathematics.
+* **[Awesome Mathematics](https://github.com/awesomelistsio/awesome-mathematics/tree/main):** A curated list of resources for pure, applied, and computational mathematics.
 * **[Awesome Open Source Math Tools](https://github.com/awesomelistsio/awesome-open-source-math-tools):** A curated list of open-source tools, libraries, and resources for mathematical computations.
 
 ## Media
@@ -231,10 +267,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Platforms
 
 * **[Awesome Amazon](https://github.com/awesomelistsio/awesome-amazon)** A curated list of tools, APIs, extensions, guides, and platforms related to Amazon and its ecosystem.
+* **[Awesome APIs](https://github.com/awesomelistsio/awesome-apis):** A curated list of high-quality APIs, SDKs, and developer tools.
 * **[Awesome GitHub Pages](https://github.com/awesomelistsio/awesome-github-pages)** A curated list of awesome resources, tools, templates, and tips for using GitHub Pages.
 * **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
 * **[Awesome Shopify](https://github.com/awesomelistsio/awesome-shopify)** A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.
 * **[Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)** A curated list of awesome services, platforms, and tools for building, hosting, and managing static web
+* **[Awesome Stripe](https://github.com/awesomelistsio/awesome-stripe):** A curated list of tools and integrations for building with Stripe.
 
 ## Politics & Society
 
@@ -244,19 +282,23 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome E-Government](https://github.com/awesomelistsio/awesome-e-government):** A curated list of tools, platforms, policies, and projects that enable digital transformation in public services and governance.
 * **[Awesome G7](https://github.com/awesomelistsio/awesome-g7):** A curated list of resources, reports, and analysis related to the G7 (Group of Seven) nations and their policies.
 * **[Awesome Global Development](https://github.com/awesomelistsio/awesome-global-development):** A curated list of high-quality resources, organizations, data platforms, and tools related to international development, humanitarian work, poverty alleviation, and global equity.
+* **[Awesome GovTech](https://github.com/awesomelistsio/awesome-govtech):** A curated list of platforms and resources for digital government and public sector innovation.
 * **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights):** A list of high-quality resources, organizations, tools, and data to support human rights work.
 * **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom):** A curated list of tools, platforms, organizations, and resources that support free, open, and secure access to the internet.
 * **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism):** Curated tools, platforms, and resources for investigative, data, and digital journalism.
 * **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data):** Curated list of high-quality open data resources, tools, platforms, and projects across domains.
 * **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance):** Curated list of projects, platforms, and APIs for transparency, civic tech, and global governance
+* **[Awesome Public Policy](https://github.com/awesomelistsio/awesome-public-policy):** A curated list of institutions, datasets, and tools for public policy and governance.
 * **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science):** Curated academic and open resources related to political systems, theories, and institutions.
 
 ## Programming Languages
 
+* **[Awesome C](https://github.com/awesomelistsio/awesome-c):** A curated list of C libraries, tools, and learning resources.
 * **[Awesome CSS](https://github.com/awesomelistsio/awesome-css)** A curated list of awesome CSS frameworks, libraries, tools, resources, and inspiration.
 * **[Awesome ColdFusion](https://github.com/awesomelistsio/awesome-coldfusion):** A curated list of awesome ColdFusion resources and tips for developers.
 * **[Awesome HTML5](https://github.com/awesomelistsio/awesome-html5)** A curated list of awesome HTML5 resources, tools, frameworks, and learning materials.
 * **[Awesome Erlang](https://github.com/awesomelistsio/awesome-erlang):** A curated list of awesome frameworks, libraries, tools, and resources for Erlang programming.
+* **[Awesome Fortran](https://github.com/awesomelistsio/awesome-fortran):** A curated list of tools and libraries for Fortran.
 * **[Awesome Go](https://github.com/awesomelistsio/awesome-go):** A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
 * **[Awesome Haskell](https://github.com/awesomelistsio/awesome-haskell):** A curated list of awesome Haskell resources and tips.
 * **[JavaScript](https://github.com/awesomelistsio/awesome-javascript)** A curated list of awesome JavaScript libraries, frameworks, tools, and resources.
@@ -264,8 +306,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Java](https://github.com/awesomelistsio/awesome-java):** A curated list of awesome frameworks, libraries, tools, and resources for Java programming.
 * **[Awesome Julia](https://github.com/awesomelistsio/awesome-julia):** A curated list of awesome resources, libraries, tools, and tips for Julia programming.
 * **[Awesome Kotlin](https://github.com/awesomelistsio/awesome-kotlin):** A curated list of awesome tools, libraries, frameworks, and resources for Kotlin.
+* **[Awesome Lua](https://github.com/awesomelistsio/awesome-lua):** A curated list of Lua libraries, tools, and game development resources.
+* **[Awesome MATLAB](https://github.com/awesomelistsio/awesome-matlab/tree/main):** A curated list of tools and resources for MATLAB.
 * **[Awesome OCaml](https://github.com/awesomelistsio/awesome-ocaml):** A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.
 * **[Awesome Perl](https://github.com/awesomelistsio/awesome-perl):** A curated list of awesome frameworks, libraries, tools, and resources for the Perl programming language.
+* **[Awesome PHP](https://github.com/awesomelistsio/awesome-php):** A curated list of PHP frameworks, libraries, and best practices.
 * **[Awesome PureScript](https://github.com/awesomelistsio/awesome-purescript):** A curated list of awesome PureScript resources, libraries, tools, and tips.
 * **[Awesome Python](https://github.com/awesomelistsio/awesome-python):** A curated list of awesome frameworks, libraries, tools, and resources for Python programming.
 * **[Awesome R](https://github.com/awesomelistsio/awesome-r):** A curated list of awesome R frameworks, libraries, tools, and resources for data analysis, statistics, and visualization.
@@ -274,6 +319,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Scala](https://github.com/awesomelistsio/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/awesomelistsio/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
 * **[Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript):** A curated list of awesome tools, libraries, frameworks, and resources for TypeScript.
+* **[Awesome Zig](https://github.com/awesomelistsio/awesome-zig):** A curated list of tools and learning resources for the Zig programming language.
   
 ## Quantum Computing
 * **[Awesome Quantum Computing](https://github.com/awesomelistsio/awesome-quantum-computing)** A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.
@@ -288,9 +334,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Threat Intelligence](https://github.com/awesomelistsio/awesome-threat-intelligence):** Threat detection and analysis resources.
 
 ## Science
+
+* **[Awesome Chemistry](https://github.com/awesomelistsio/awesome-chemistry):** A curated list of resources for chemistry and materials science.
 * **[Awesome Neuroscience](https://github.com/awesomelistsio/awesome-neuroscience):** A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.
 * **[Awesome Oceanography](https://github.com/awesomelistsio/awesome-oceanography):** A curated list of awesome resources, tools, data, and organizations for the study and exploration of the ocean.
 * **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
+* **[Awesome Physics](https://github.com/awesomelistsio/awesome-physics):** A curated list of resources for physics research and education.
 
 ## Social & Creator Platforms
 
@@ -324,4 +373,5 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Web Optimization
 
 * **[Awesome Web Accessibility](https://github.com/awesomelistsio/awesome-web-accessibility):** A curated list of awesome resources, tools, and tips to improve web accessibility.
+* **[Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development):** A curated list of frameworks, tools, and learning resources for modern web development.
 * **[Awesome Web Performance](https://github.com/awesomelistsio/awesome-web-performance):** A curated list of awesome resources, tools, and tips to improve web performance.
