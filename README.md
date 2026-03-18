@@ -7,8 +7,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 > **Part of the Awesome Ecosystem:**  
 > • **Awesome Lists** — discover the best tools & resources  
-> • **[Awesome Learn](https://github.com/awesomelearnio/awesome)** — learn topics step-by-step with clarity and guidance  
-> • **[Awesome Travel](https://github.com/brandontravel/awesome)** — curated tools, guides & data for travelers and digital nomads  
+> • **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — learn topics step-by-step with clarity and guidance  
+> • **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)** — curated tools, guides & data for travelers and digital nomads  
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
