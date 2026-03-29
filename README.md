@@ -17,6 +17,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
+- [Agriculture Tech (AgTech)](#agriculture-tech-agtech)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
 - [Business & Economics](#business--economics)
@@ -29,10 +30,13 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Decentralized Systems](#decentralized-systems)
 - [DevOps and CI/CD](#devops-and-cicd)
 - [Digital Marketing](#digital-marketing)
+- [Education Technology (EdTech)](#education-technology-edtech)
 - [Emerging Tech: Drones & IoT](#emerging-tech-drones--iot)
 - [Engineering](#engineering)
 - [Frameworks](#frameworks)
 - [Gaming Development](#gaming-development)
+- [Health & Digital Health](#health--digital-health)
+- [Logistics & Supply Chain](#logistics--supply-chain)
 - [Mathematics](#mathematics)
 - [Media](#media)
 - [Platforms](#platforms)
@@ -41,11 +45,14 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Quantum Computing](#quantum-computing)
 - [Privacy, Security & Intelligence](#privacy-security--intelligence)
 - [Science](#science)
+- [Smart Cities & Urban Tech](#smart-cities--urban-tech)
 - [Social & Creator Platforms](#social--creator-platforms)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Technology Giants](#technology-giants)
 - [Web Optimization](#web-optimization)
+
+## Agriculture Tech (AgTech)
 
 ## Artificial Intelligence (AI)
 
@@ -199,6 +206,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome SEO](https://github.com/brandonhimpfen/awesome-seo):** A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
 * **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media):** A curated list of resources and tips to level up your social media game!
 
+## Education Technology (EdTech)
+
 ## Emerging Tech: Drones & IoT
 
 * **[Awesome Agricultural Drones](https://github.com/brandonhimpfen/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
@@ -248,10 +257,13 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome UI Components](https://github.com/brandonhimpfen/awesome-ui-components):** A curated list of awesome UI component libraries, frameworks, kits, and resources for building beautiful, reusable user interfaces.
 * **[Awesome WordPress Headless](https://github.com/brandonhimpfen/awesome-wordpress-headless/tree/main):** A curated list of resources, tools, frameworks, and guides for building headless WordPress websites.
 
-
 ## Gaming Development
 
 * **[Awesome Game Engines](https://github.com/brandonhimpfen/awesome-game-engines):** A curated list of game engines, frameworks, tools, and resources for game development.
+
+## Health & Digital Health
+
+## Logistics & Supply Chain
 
 ## Mathematics
 
@@ -340,6 +352,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Oceanography](https://github.com/brandonhimpfen/awesome-oceanography):** A curated list of awesome resources, tools, data, and organizations for the study and exploration of the ocean.
 * **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science):** A curated list of tools, platforms, resources, and communities that promote open science.
 * **[Awesome Physics](https://github.com/brandonhimpfen/awesome-physics):** A curated list of resources for physics research and education.
+
+## Smart Cities & Urban Tech
 
 ## Social & Creator Platforms
 
