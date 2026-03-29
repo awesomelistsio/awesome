@@ -54,6 +54,17 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Agriculture Tech (AgTech)
 
+* **Awesome Agricultural Data & Analytics:** Platforms for analyzing crop, soil, and weather data.
+* **Awesome Agricultural Robotics:** Robots and automation systems for farming tasks.
+* **Awesome AgTech:** Platforms and tools for modern agriculture systems.
+* **Awesome Crop Monitoring & Detection:** Tools for detecting crop health and disease.
+* **Awesome Farm Management Systems:** Software for managing farm operations and resources.
+* **Awesome Precision Agriculture:** Tools for data-driven farming and optimization.
+* **Awesome Smart Irrigation:** Systems for optimizing water usage and irrigation.
+* **Awesome Soil & Environmental Monitoring:** Sensors and systems for tracking soil and environmental conditions.
+* **Awesome Sustainable Agriculture:** Tools and systems for environmentally sustainable farming practices.
+* **Awesome UAV in Agriculture:** Drone-based systems for monitoring and mapping farmland.
+  
 ## Artificial Intelligence (AI)
 
 * **[Awesome AI](https://github.com/brandonhimpfen/awesome-ai):** A general list of resources, libraries, and tools for artificial intelligence.
@@ -208,6 +219,17 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Education Technology (EdTech)
 
+* **Awesome AI in Education:** AI tools for personalized learning, tutoring, and assessment.
+* **Awesome Classroom Technology:** Tools for in-person and hybrid learning environments.
+* **Awesome Developer Education:** Platforms and tools for teaching programming and technical skills.
+* **Awesome EdTech:** Platforms and tools for digital learning and education systems.
+* **Awesome Educational Content Creation:** Tools for building interactive and multimedia learning content.
+* **Awesome Language Learning Tech:** Apps and tools for learning languages.
+* **Awesome Learning Management Systems (LMS):** Tools for managing courses, learners, and content delivery.
+* **Awesome Online Course Platforms:** Platforms for creating and distributing courses.
+* **Awesome Open Education Resources (OER):** Free and open learning materials and platforms.
+* **Awesome Student Analytics:** Systems for tracking performance and learning outcomes.
+
 ## Emerging Tech: Drones & IoT
 
 * **[Awesome Agricultural Drones](https://github.com/brandonhimpfen/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
@@ -263,7 +285,29 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Health & Digital Health
 
+* **Awesome Bioinformatics:** Tools and datasets for biological and genomic data analysis.
+* **Awesome Clinical Systems:** Electronic health records (EHR), hospital systems, and workflows.
+* **Awesome Digital Health:** Platforms, tools, and systems for modern healthcare delivery and infrastructure.
+* **Awesome Health Data & Interoperability:** Standards, APIs, and systems for exchanging healthcare data (FHIR, HL7, etc.).
+* **Awesome Health Privacy & Compliance:** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
+* **Awesome Healthcare Analytics:** Data platforms and tools for healthcare insights and outcomes.
+* **Awesome Medical AI:** AI applications in diagnostics, imaging, and clinical decision support.
+* **Awesome Mental Health Tech:** Platforms and tools focused on mental health and wellbeing.
+* **Awesome Telemedicine:** Platforms and tools for remote healthcare delivery.
+* **Awesome Wearables & Health Monitoring:** Devices and systems for tracking health metrics.
+
 ## Logistics & Supply Chain
+
+* **Awesome Cold Chain Logistics:** Systems for temperature-sensitive goods and transport.
+* **Awesome Fleet Management:** Tools for managing vehicles and logistics operations.
+* **Awesome Last-Mile Delivery:** Platforms and tools for final delivery optimization.
+* **Awesome Logistics Tech:** Systems for transportation, routing, and delivery optimization.
+* **Awesome Procurement Systems:** Tools for sourcing and supplier management.
+* **Awesome Supply Chain:** Platforms and tools for managing supply chains end-to-end.
+* **Awesome Supply Chain Analytics:** Data platforms for forecasting and optimization.
+* **Awesome Tracking & Visibility:** Systems for real-time tracking of goods and assets.
+* **Awesome Trade & Customs Tech:** Systems for international shipping and compliance.
+* **Awesome Warehouse Management:** Tools for inventory, storage, and fulfillment operations.
 
 ## Mathematics
 
@@ -355,6 +399,17 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Smart Cities & Urban Tech
 
+* **Awesome Civic Tech:** Tools for government transparency, engagement, and public services.
+* **Awesome Digital Twins (Cities):** Platforms for simulating and modeling urban environments.
+* **Awesome Energy & Smart Grids:** Tools and systems for managing energy in urban environments.
+* **Awesome Geospatial & GIS:** Mapping, geospatial analysis, and location-based systems.
+* **Awesome Infrastructure Monitoring:** Systems for monitoring roads, bridges, utilities, and assets.
+* **Awesome IoT for Cities:** Sensors, networks, and IoT platforms for urban environments.
+* **Awesome Public Safety Tech:** Systems for emergency response and urban safety.
+* **Awesome Smart Cities:** Platforms and systems for managing urban infrastructure and services.
+* **Awesome Urban Data Platforms:** Data systems for collecting and analyzing city-wide data.
+* **Awesome Urban Mobility:** Tools and systems for transportation, traffic, and mobility.
+  
 ## Social & Creator Platforms
 
 * **[Awesome CodePen](https://github.com/brandonhimpfen/awesome-codepen)** A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.
