@@ -1,6 +1,15 @@
 # Awesome [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp; 
+[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp; 
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
+[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
+
 A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights, and beyond – designed to inform, empower, and connect curious minds.
+
+---
 
 🛠️ Status: Actively maintained  
 🎯 Focus: AI, decentralized systems, sustainability, travel, and modern web ecosystems.
@@ -10,12 +19,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 > • **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — learn topics step-by-step with clarity and guidance  
 > • **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)** — curated tools, guides & data for travelers and digital nomads  
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp; 
-[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp; 
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
-[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
+---
 
 - [Agriculture Tech (AgTech)](#agriculture-tech-agtech)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
@@ -39,6 +43,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Logistics & Supply Chain](#logistics--supply-chain)
 - [Mathematics](#mathematics)
 - [Media](#media)
+- [Mobile Development](#mobile-development)
 - [Platforms](#platforms)
 - [Politics & Society](#politics--society)
 - [Programming Languages](#programming-languages)
@@ -47,6 +52,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Science](#science)
 - [Smart Cities & Urban Tech](#smart-cities--urban-tech)
 - [Social & Creator Platforms](#social--creator-platforms)
+- [Software Development](#software-development)
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Technology Giants](#technology-giants)
@@ -54,9 +60,9 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Agriculture Tech (AgTech)
 
-* **Awesome Agricultural Data & Analytics:** Platforms for analyzing crop, soil, and weather data.
-* **Awesome Agricultural Robotics:** Robots and automation systems for farming tasks.
-* **Awesome AgTech:** Platforms and tools for modern agriculture systems.
+* **[Awesome Agricultural Data & Analytics](https://github.com/brandonhimpfen/awesome-agricultural-data-analytics):** Platforms for analyzing crop, soil, and weather data.
+* **[Awesome Agricultural Robotics](https://github.com/brandonhimpfen/awesome-agricultural-robotics):** Robots and automation systems for farming tasks.
+* **[Awesome AgTech](https://github.com/brandonhimpfen/awesome-agtech):** Platforms and tools for modern agriculture systems.
 * **Awesome Crop Monitoring & Detection:** Tools for detecting crop health and disease.
 * **Awesome Farm Management Systems:** Software for managing farm operations and resources.
 * **Awesome Precision Agriculture:** Tools for data-driven farming and optimization.
@@ -71,10 +77,14 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome AI Agents](https://github.com/brandonhimpfen/awesome-ai-agents):** A curated list of frameworks, tools, platforms, and resources for building AI agents — autonomous or semi-autonomous systems with planning, memory, tool use, and multi-step reasoning.
 * **[Awesome AI Art](https://github.com/brandonhimpfen/awesome-ai-art):** A curated list of tools, platforms, datasets, and resources for creating, exploring, and understanding AI-generated art.
 * **[Awesome AI Benchmarks & Evaluation](https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation):** Evaluation tools, benchmark datasets, leaderboards, frameworks, and resources for assessing model performance across reasoning, safety, robustness, multimodality, RAG, LLMs, and traditional ML tasks.
+* **[Awesome AI Coding Agents](https://github.com/brandonhimpfen/awesome-ai-coding-agents):** A curated list of frameworks, tools, platforms, and resources for AI coding agents.
+* **[Awesome AI Content Pipelines](https://github.com/brandonhimpfen/awesome-ai-content-pipelines):** A curated list of tools, frameworks, workflows, and resources for building AI-powered content pipelines.
 * **[Awesome AI Ethics](https://github.com/brandonhimpfen/awesome-ai-ethics):** Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.
 * **[Awesome AI for Edge Computing](https://github.com/brandonhimpfen/awesome-ai-edge-computing):** Tools and frameworks for running AI models on edge devices and IoT.
 * **[Awesome AI in Healthcare](https://github.com/brandonhimpfen/awesome-ai-healthcare):** A curated list of tools, frameworks, applications, datasets, and resources for AI in healthcare.
 * **[Awesome AI Infrastructure](https://github.com/brandonhimpfen/awesome-ai-infrastructure):** Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.
+* **[Awesome AI Memory Systems](https://github.com/brandonhimpfen/awesome-ai-memory-systems):** A curated list of tools, frameworks, and resources for AI memory systems.
+* **[Awesome AI Native Applications](https://github.com/brandonhimpfen/awesome-ai-native-applications):** A curated list of AI-native applications. Products and systems built with AI at their core.
 * **[Awesome AI Research Papers](https://github.com/brandonhimpfen/awesome-ai-research-papers):** A curated list of influential AI research papers and academic resources.
 * **[Awesome AI Research Tools](https://github.com/brandonhimpfen/awesome-ai-research-tools):** Tools, platforms, libraries, and resources to support AI and ML research — experimentation, literature search, dataset exploration, evaluation, visualization, and reproducibility.
 * **[Awesome AI Safety & Alignment](https://github.com/brandonhimpfen/awesome-ai-safety-alignment):** Research, frameworks, tools, evaluations, and resources focused on AI alignment, safety, robustness, governance, and responsible development.
@@ -150,8 +160,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Cryptocurrency](https://github.com/brandonhimpfen/awesome-cryptocurrency):** A general list of cryptocurrency resources, including exchanges, wallets, and analytics tools.
 * **[Awesome DeFi](https://github.com/brandonhimpfen/awesome-defi):** A list of tools, platforms, and resources for the decentralized finance ecosystem.
 * **[Awesome Ethereum](https://github.com/brandonhimpfen/awesome-ethereum):** A comprehensive list of resources, tools, and development frameworks for Ethereum.
+* **[Awesome On-Chain Analytics](https://github.com/brandonhimpfen/awesome-on-chain-analytics):** A curated list of tools, platforms, datasets, and resources for on-chain analytics.
 * **[Awesome Privacy Coins](https://github.com/brandonhimpfen/awesome-privacy-coins):** Resources and tools focused on privacy-oriented cryptocurrencies (e.g., Monero, Zcash).
 * **[Awesome Smart Contracts](https://github.com/brandonhimpfen/awesome-smart-contracts):** Libraries, tools, and frameworks for developing and auditing smart contracts.
+* **[Awesome Stablecoins](https://github.com/brandonhimpfen/awesome-stablecoins):** A curated list of stablecoins, infrastructure, tools, and resources for understanding and building with price-stable digital assets across fiat-backed, crypto-backed, and algorithmic models.
+* **[Awesome Tokenomics](https://github.com/brandonhimpfen/awesome-tokenomics):** A curated list of tools, frameworks, models, and resources for tokenomics.
 * **[Awesome Web3](https://github.com/brandonhimpfen/awesome-web3):** A curated list of platforms, protocols, tools, and learning resources for Web3 and the decentralized web.
 
 ## Data & Analytics
@@ -163,6 +176,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Big Data](https://github.com/brandonhimpfen/awesome-big-data):** A curated list of frameworks, platforms, and tools for big data systems.
 
 ## Databases
+
 * **[Awesome Cassandra](https://github.com/brandonhimpfen/awesome-cassandra):** A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.
 * **[Awesome CouchDB](https://github.com/brandonhimpfen/awesome-couchdb):** A curated list of awesome libraries, tools, frameworks, and resources for CouchDB, an open-source NoSQL database known for its ease of use, scalability, and master-master replication.
 * **[Awesome HBase](https://github.com/brandonhimpfen/awesome-hbase):** A curated list of awesome libraries, tools, frameworks, and resources for Apache HBase, a scalable, distributed, and NoSQL database built on top of Hadoop, designed for handling large amounts of data.
@@ -222,7 +236,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **Awesome AI in Education:** AI tools for personalized learning, tutoring, and assessment.
 * **Awesome Classroom Technology:** Tools for in-person and hybrid learning environments.
 * **Awesome Developer Education:** Platforms and tools for teaching programming and technical skills.
-* **Awesome EdTech:** Platforms and tools for digital learning and education systems.
+* **[Awesome EdTech](https://github.com/brandonhimpfen/awesome-edtech):** Platforms and tools for digital learning and education systems.
 * **Awesome Educational Content Creation:** Tools for building interactive and multimedia learning content.
 * **Awesome Language Learning Tech:** Apps and tools for learning languages.
 * **Awesome Learning Management Systems (LMS):** Tools for managing courses, learners, and content delivery.
@@ -249,6 +263,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome UAV Collision Avoidance Systems](https://github.com/brandonhimpfen/awesome-uav-collision-avoidance-systems):** Libraries and datasets for UAV safety.
 * **[Awesome UAV Flight Test Planning](https://github.com/brandonhimpfen/awesome-uav-flight-test-planning):** Resources for planning UAV test flights.
 * **[Awesome UAV Root Cause Analysis](https://github.com/brandonhimpfen/awesome-uav-root-cause-analysis):** Case studies and methodologies for UAV failure analysis.
+* **[Awesome UAV Simulation](https://github.com/brandonhimpfen/awesome-uav-simulation):** A curated list of simulators, frameworks, tools, and resources for UAV simulation.
 * **[Awesome VTOL Drones](https://github.com/brandonhimpfen/awesome-vtol-drones):** A curated list of resources, research, tools, and companies focused on Vertical Take-Off and Landing (VTOL) drones — combining multirotor agility with fixed-wing efficiency for advanced UAV applications.
   
 ## Engineering
@@ -287,18 +302,18 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 * **Awesome Bioinformatics:** Tools and datasets for biological and genomic data analysis.
 * **Awesome Clinical Systems:** Electronic health records (EHR), hospital systems, and workflows.
-* **Awesome Digital Health:** Platforms, tools, and systems for modern healthcare delivery and infrastructure.
+* **[Awesome Digital Health](https://github.com/brandonhimpfen/awesome-digital-health):** Platforms, tools, and systems for modern healthcare delivery and infrastructure.
 * **Awesome Health Data & Interoperability:** Standards, APIs, and systems for exchanging healthcare data (FHIR, HL7, etc.).
 * **Awesome Health Privacy & Compliance:** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
 * **Awesome Healthcare Analytics:** Data platforms and tools for healthcare insights and outcomes.
 * **Awesome Medical AI:** AI applications in diagnostics, imaging, and clinical decision support.
 * **Awesome Mental Health Tech:** Platforms and tools focused on mental health and wellbeing.
 * **Awesome Telemedicine:** Platforms and tools for remote healthcare delivery.
-* **Awesome Wearables & Health Monitoring:** Devices and systems for tracking health metrics.
+* **[Awesome Wearables & Health Monitoring](https://github.com/brandonhimpfen/awesome-wearables-health-monitoring):** Devices and systems for tracking health metrics.
 
 ## Logistics & Supply Chain
 
-* **Awesome Cold Chain Logistics:** Systems for temperature-sensitive goods and transport.
+* **[Awesome Cold Chain Logistics](https://github.com/brandonhimpfen/awesome-cold-chain-logistics):** Systems for temperature-sensitive goods and transport.
 * **Awesome Fleet Management:** Tools for managing vehicles and logistics operations.
 * **Awesome Last-Mile Delivery:** Platforms and tools for final delivery optimization.
 * **Awesome Logistics Tech:** Systems for transportation, routing, and delivery optimization.
@@ -316,9 +331,18 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Open Source Math Tools](https://github.com/brandonhimpfen/awesome-open-source-math-tools):** A curated list of open-source tools, libraries, and resources for mathematical computations.
 
 ## Media
+
 * **[Awesome Audiovisual](https://github.com/brandonhimpfen/awesome-audiovisual):** A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.
 * **[Awesome FFmpeg](https://github.com/brandonhimpfen/awesome-ffmpeg):** A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.
 * **[Awesome Podcasting Tools](https://github.com/brandonhimpfen/awesome-podcasting-tools):** A curated list of tools, platforms, resources, and tips for podcasting.
+
+## Mobile Development
+
+* **[Awesome Android Development](https://github.com/brandonhimpfen/awesome-android-development):** A curated list of tools, frameworks, libraries, and resources for Android development.
+* **[Awesome Mobile App Architecture](https://github.com/brandonhimpfen/awesome-mobile-app-architecture):** A curated list of architectural patterns, frameworks, and tools for designing scalable and maintainable mobile applications.
+* **[Awesome Mobile Development](https://github.com/brandonhimpfen/awesome-mobile-development):** A curated list of tools, frameworks, platforms, and resources for mobile development across iOS, Android, and cross-platform ecosystems.
+* **[Awesome Mobile Security](https://github.com/brandonhimpfen/awesome-mobile-security):** A curated list of tools, frameworks, and practices for securing mobile applications across iOS and Android.
+* **[Awesome iOS Development](https://github.com/brandonhimpfen/awesome-ios-development):** A curated list of tools, frameworks, libraries, and resources for iOS development.
   
 ## Platforms
 
@@ -333,7 +357,6 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Politics & Society
 
 * **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change):** Curated resources, projects, data, and tools to understand and address climate change.
-* **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech):** Curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.
 * **[Awesome Digital Rights](https://github.com/brandonhimpfen/awesome-digital-rights):** A curated list of resources, organizations, tools, and readings focused on digital rights, freedom of expression, privacy, access to information, and internet governance.
 * **[Awesome E-Government](https://github.com/brandonhimpfen/awesome-e-government):** A curated list of tools, platforms, policies, and projects that enable digital transformation in public services and governance.
 * **[Awesome G7](https://github.com/brandonhimpfen/awesome-g7):** A curated list of resources, reports, and analysis related to the G7 (Group of Seven) nations and their policies.
@@ -378,6 +401,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Zig](https://github.com/brandonhimpfen/awesome-zig):** A curated list of tools and learning resources for the Zig programming language.
   
 ## Quantum Computing
+
 * **[Awesome Quantum Computing](https://github.com/brandonhimpfen/awesome-quantum-computing)** A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.
 * **[Awesome Quantum Programming Frameworks](https://github.com/brandonhimpfen/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
 
@@ -399,14 +423,14 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Smart Cities & Urban Tech
 
-* **Awesome Civic Tech:** Tools for government transparency, engagement, and public services.
+* **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech):** Curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.
 * **Awesome Digital Twins (Cities):** Platforms for simulating and modeling urban environments.
 * **Awesome Energy & Smart Grids:** Tools and systems for managing energy in urban environments.
 * **Awesome Geospatial & GIS:** Mapping, geospatial analysis, and location-based systems.
 * **Awesome Infrastructure Monitoring:** Systems for monitoring roads, bridges, utilities, and assets.
 * **Awesome IoT for Cities:** Sensors, networks, and IoT platforms for urban environments.
 * **Awesome Public Safety Tech:** Systems for emergency response and urban safety.
-* **Awesome Smart Cities:** Platforms and systems for managing urban infrastructure and services.
+* **[Awesome Smart Cities](https://github.com/brandonhimpfen/awesome-smart-cities):** Platforms and systems for managing urban infrastructure and services.
 * **Awesome Urban Data Platforms:** Data systems for collecting and analyzing city-wide data.
 * **Awesome Urban Mobility:** Tools and systems for transportation, traffic, and mobility.
   
@@ -424,14 +448,20 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome YouTube](https://github.com/brandonhimpfen/awesome-youtube):** A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.
 * **[Awesome X](https://github.com/brandonhimpfen/awesome-x)** A curated list of high-quality tools, libraries, resources, and guides for working with X (formerly Twitter).
 
+## Software Development
+
+* **[Awesome Software Architecture](https://github.com/brandonhimpfen/awesome-software-architecture)** A curated list of architectural patterns, frameworks, tools, and resources for designing scalable, maintainable, resilient, and understandable software systems.
+  
+## Space Technology
+
+* **[Awesome Open Source Space Data APIs](https://github.com/brandonhimpfen/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
+
 ## Sustainability and Green Tech
+
 * **[Awesome Carbon Accounting & Offsets](https://github.com/brandonhimpfen/awesome-carbon-accounting-offsets):** A curated list of tools, frameworks, datasets, standards, platforms, and projects for carbon accounting, carbon offsetting, and sustainability tracking.
 * **[Awesome Climate Tech](https://github.com/brandonhimpfen/awesome-climate-tech):** A curated list of high-quality resources, startups, tools, and frameworks driving innovation in climate technology.
 * **[Awesome Green Cloud Computing](https://github.com/brandonhimpfen/awesome-green-cloud-computing):** A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.
 * **[Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability):** A curated list of tools, projects, frameworks, communities, and resources for building a more sustainable world.
-
-## Space Technology
-* **[Awesome Open Source Space Data APIs](https://github.com/brandonhimpfen/awesome-open-source-space-data-apis):** A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
 
 ## Technology Giants
 
