@@ -68,8 +68,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **Awesome Precision Agriculture:** Tools for data-driven farming and optimization.
 * **Awesome Smart Irrigation:** Systems for optimizing water usage and irrigation.
 * **Awesome Soil & Environmental Monitoring:** Sensors and systems for tracking soil and environmental conditions.
-* **Awesome Sustainable Agriculture:** Tools and systems for environmentally sustainable farming practices.
-* **Awesome UAV in Agriculture:** Drone-based systems for monitoring and mapping farmland.
+* **[Awesome Sustainable Agriculture](https://github.com/brandonhimpfen/awesome-sustainable-agriculture):** Tools and systems for environmentally sustainable farming practices.
+* **[Awesome UAV in Agriculture](https://github.com/brandonhimpfen/awesome-uav-in-agriculture):** Drone-based systems for monitoring and mapping farmland.
   
 ## Artificial Intelligence (AI)
 
@@ -203,11 +203,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Design & UX
 
-* **[Awesome Design](https://github.com/brandonhimpfen/awesome-design)** A curated list of awesome resources, tools, frameworks, and communities for all things design—UI, UX, product, interaction, and beyond.
-* **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)** A curated list of awesome Figma plugins, tools, templates, resources, and community links to boost your design workflow.
-* **[Awesome Icons](https://github.com/brandonhimpfen/awesome-icons)** A curated list of awesome icon packs, libraries, tools, and resources for web and app design.
-* **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux)** A curated list of awesome resources, tools, and guides for improving User Experience (UX) design.
-* **[Awesome Web Design](https://github.com/brandonhimpfen/awesome-web-design)** A curated list of awesome resources, tools, books, and inspiration for web designers.
+* **[Awesome Design](https://github.com/brandonhimpfen/awesome-design):** A curated list of awesome resources, tools, frameworks, and communities for all things design—UI, UX, product, interaction, and beyond.
+* **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma):** A curated list of awesome Figma plugins, tools, templates, resources, and community links to boost your design workflow.
+* **[Awesome Icons](https://github.com/brandonhimpfen/awesome-icons):** A curated list of awesome icon packs, libraries, tools, and resources for web and app design.
+* **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux):** A curated list of awesome resources, tools, and guides for improving User Experience (UX) design.
+* **[Awesome Web Design](https://github.com/brandonhimpfen/awesome-web-design):** A curated list of awesome resources, tools, books, and inspiration for web designers.
 
 ## DevOps and CI/CD
 
@@ -234,13 +234,14 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Education Technology (EdTech)
 
 * **Awesome AI in Education:** AI tools for personalized learning, tutoring, and assessment.
-* **Awesome Classroom Technology:** Tools for in-person and hybrid learning environments.
+* **[Awesome Classroom Technology](https://github.com/brandonhimpfen/awesome-classroom-technology):** Tools for in-person and hybrid learning environments.
 * **Awesome Developer Education:** Platforms and tools for teaching programming and technical skills.
 * **[Awesome EdTech](https://github.com/brandonhimpfen/awesome-edtech):** Platforms and tools for digital learning and education systems.
 * **Awesome Educational Content Creation:** Tools for building interactive and multimedia learning content.
 * **Awesome Language Learning Tech:** Apps and tools for learning languages.
-* **Awesome Learning Management Systems (LMS):** Tools for managing courses, learners, and content delivery.
+* **[Awesome Learning Management Systems (LMS)](https://github.com/brandonhimpfen/awesome-learning-management-systems):** Tools for managing courses, learners, and content delivery.
 * **Awesome Online Course Platforms:** Platforms for creating and distributing courses.
+* **[Awesome Online Learning](https://github.com/brandonhimpfen/awesome-online-learning):** A curated list of platforms, tools, and resources for online learning, self-paced education, and digital course delivery.
 * **Awesome Open Education Resources (OER):** Free and open learning materials and platforms.
 * **Awesome Student Analytics:** Systems for tracking performance and learning outcomes.
 
@@ -248,7 +249,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 * **[Awesome Agricultural Drones](https://github.com/brandonhimpfen/awesome-agricultural-drones):** Tools and use cases for drones in agriculture.
 * **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native):** Tools and frameworks for cloud-native development.
-* **[Awesome Drone Laws by Country](https://github.com/brandonhimpfen/awesome-drone-laws-by-country)** A curated list of resources, databases, and official sources on drone laws, regulations, and UAV/UAS policies around the world.
+* **[Awesome Drone Laws by Country](https://github.com/brandonhimpfen/awesome-drone-laws-by-country):** A curated list of resources, databases, and official sources on drone laws, regulations, and UAV/UAS policies around the world.
 * **[Awesome Drone Photography & Cinematography](https://github.com/brandonhimpfen/awesome-drone-photography-cinematography):** A curated list of tools, techniques, and workflows for drone photography and cinematography.
 * **[Awesome Edge Computing](https://github.com/brandonhimpfen/awesome-edge-computing):** Tools and research for edge devices.
 * **[Awesome Flight Controller Software](https://github.com/brandonhimpfen/awesome-flight-controller-software):** High-quality flight control software for UAVs.
@@ -300,8 +301,9 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Health & Digital Health
 
-* **Awesome Bioinformatics:** Tools and datasets for biological and genomic data analysis.
+* **[Awesome Bioinformatics](https://github.com/brandonhimpfen/awesome-bioinformatics):** Tools and datasets for biological and genomic data analysis.
 * **Awesome Clinical Systems:** Electronic health records (EHR), hospital systems, and workflows.
+* **[Awesome Computational Biology](https://github.com/brandonhimpfen/awesome-computational-biology):** A curated list of tools, libraries, datasets, and platforms for computational biology.
 * **[Awesome Digital Health](https://github.com/brandonhimpfen/awesome-digital-health):** Platforms, tools, and systems for modern healthcare delivery and infrastructure.
 * **Awesome Health Data & Interoperability:** Standards, APIs, and systems for exchanging healthcare data (FHIR, HL7, etc.).
 * **Awesome Health Privacy & Compliance:** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
@@ -315,14 +317,15 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 * **[Awesome Cold Chain Logistics](https://github.com/brandonhimpfen/awesome-cold-chain-logistics):** Systems for temperature-sensitive goods and transport.
 * **Awesome Fleet Management:** Tools for managing vehicles and logistics operations.
-* **Awesome Last-Mile Delivery:** Platforms and tools for final delivery optimization.
+* **[Awesome Last-Mile Delivery](https://github.com/brandonhimpfen/awesome-last-mile-delivery):** Platforms and tools for final delivery optimization.
+* **[Awesome Logistics](https://github.com/brandonhimpfen/awesome-logistics):** A curated list of platforms, tools, and technologies for logistics.
 * **Awesome Logistics Tech:** Systems for transportation, routing, and delivery optimization.
 * **Awesome Procurement Systems:** Tools for sourcing and supplier management.
-* **Awesome Supply Chain:** Platforms and tools for managing supply chains end-to-end.
+* **[Awesome Supply Chain](https://github.com/brandonhimpfen/awesome-supply-chain):** Platforms and tools for managing supply chains end-to-end.
 * **Awesome Supply Chain Analytics:** Data platforms for forecasting and optimization.
 * **Awesome Tracking & Visibility:** Systems for real-time tracking of goods and assets.
 * **Awesome Trade & Customs Tech:** Systems for international shipping and compliance.
-* **Awesome Warehouse Management:** Tools for inventory, storage, and fulfillment operations.
+* **[Awesome Warehouse Management](https://github.com/brandonhimpfen/awesome-warehouse-management):** Tools for inventory, storage, and fulfillment operations.
 
 ## Mathematics
 
@@ -346,12 +349,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
   
 ## Platforms
 
-* **[Awesome Amazon](https://github.com/brandonhimpfen/awesome-amazon)** A curated list of tools, APIs, extensions, guides, and platforms related to Amazon and its ecosystem.
+* **[Awesome Amazon](https://github.com/brandonhimpfen/awesome-amazon):** A curated list of tools, APIs, extensions, guides, and platforms related to Amazon and its ecosystem.
 * **[Awesome APIs](https://github.com/brandonhimpfen/awesome-apis):** A curated list of high-quality APIs, SDKs, and developer tools.
-* **[Awesome GitHub Pages](https://github.com/brandonhimpfen/awesome-github-pages)** A curated list of awesome resources, tools, templates, and tips for using GitHub Pages.
+* **[Awesome GitHub Pages](https://github.com/brandonhimpfen/awesome-github-pages):** A curated list of awesome resources, tools, templates, and tips for using GitHub Pages.
 * **[Awesome Node.js](https://github.com/brandonhimpfen/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
-* **[Awesome Shopify](https://github.com/brandonhimpfen/awesome-shopify)** A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.
-* **[Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services)** A curated list of awesome services, platforms, and tools for building, hosting, and managing static web
+* **[Awesome Shopify](https://github.com/brandonhimpfen/awesome-shopify):** A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.
+* **[Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services):** A curated list of awesome services, platforms, and tools for building, hosting, and managing static web
 * **[Awesome Stripe](https://github.com/brandonhimpfen/awesome-stripe):** A curated list of tools and integrations for building with Stripe.
 
 ## Politics & Society
@@ -375,12 +378,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome C](https://github.com/brandonhimpfen/awesome-c):** A curated list of C libraries, tools, and learning resources.
 * **[Awesome CSS](https://github.com/brandonhimpfen/awesome-css)** A curated list of awesome CSS frameworks, libraries, tools, resources, and inspiration.
 * **[Awesome ColdFusion](https://github.com/brandonhimpfen/awesome-coldfusion):** A curated list of awesome ColdFusion resources and tips for developers.
-* **[Awesome HTML5](https://github.com/brandonhimpfen/awesome-html5)** A curated list of awesome HTML5 resources, tools, frameworks, and learning materials.
+* **[Awesome HTML5](https://github.com/brandonhimpfen/awesome-html5):** A curated list of awesome HTML5 resources, tools, frameworks, and learning materials.
 * **[Awesome Erlang](https://github.com/brandonhimpfen/awesome-erlang):** A curated list of awesome frameworks, libraries, tools, and resources for Erlang programming.
 * **[Awesome Fortran](https://github.com/brandonhimpfen/awesome-fortran):** A curated list of tools and libraries for Fortran.
 * **[Awesome Go](https://github.com/brandonhimpfen/awesome-go):** A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
 * **[Awesome Haskell](https://github.com/brandonhimpfen/awesome-haskell):** A curated list of awesome Haskell resources and tips.
-* **[JavaScript](https://github.com/brandonhimpfen/awesome-javascript)** A curated list of awesome JavaScript libraries, frameworks, tools, and resources.
+* **[JavaScript](https://github.com/brandonhimpfen/awesome-javascript):** A curated list of awesome JavaScript libraries, frameworks, tools, and resources.
   * **[Awesome npm](https://github.com/brandonhimpfen/awesome-npm):** A curated list of awesome npm resources, tips, and best practices.
 * **[Awesome Java](https://github.com/brandonhimpfen/awesome-java):** A curated list of awesome frameworks, libraries, tools, and resources for Java programming.
 * **[Awesome Julia](https://github.com/brandonhimpfen/awesome-julia):** A curated list of awesome resources, libraries, tools, and tips for Julia programming.
@@ -402,7 +405,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
   
 ## Quantum Computing
 
-* **[Awesome Quantum Computing](https://github.com/brandonhimpfen/awesome-quantum-computing)** A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.
+* **[Awesome Quantum Computing](https://github.com/brandonhimpfen/awesome-quantum-computing):** A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.
 * **[Awesome Quantum Programming Frameworks](https://github.com/brandonhimpfen/awesome-quantum-programming-frameworks):** A curated list of frameworks, tools, libraries, and resources for quantum programming.
 
 ## Privacy, Security & Intelligence
@@ -436,21 +439,21 @@ A growing collection of curated awesome lists covering programming, AI, science,
   
 ## Social & Creator Platforms
 
-* **[Awesome CodePen](https://github.com/brandonhimpfen/awesome-codepen)** A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.
-* **[Awesome Dribbble](https://github.com/brandonhimpfen/awesome-dribbble)** A curated list of awesome tools, tips, profiles, and resources for designers using Dribbble.
+* **[Awesome CodePen](https://github.com/brandonhimpfen/awesome-codepen):** A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.
+* **[Awesome Dribbble](https://github.com/brandonhimpfen/awesome-dribbble):** A curated list of awesome tools, tips, profiles, and resources for designers using Dribbble.
 * **[Awesome Facebook](https://github.com/brandonhimpfen/awesome-facebook):** A curated list of high-quality tools, libraries, resources, and guides for working with Facebook.
 * **[Awesome GitHub](https://github.com/brandonhimpfen/awesome-github):** A curated list of high-quality tools, resources, libraries, and guides for working with GitHub.
 * **[Awesome Instagram](https://github.com/brandonhimpfen/awesome-instagram):** A curated list of high-quality tools, libraries, resources, and guides for working with Instagram.
 * **[Awesome LinkedIn](https://github.com/brandonhimpfen/awesome-linkedin):** A curated list of high-quality tools, libraries, resources, and guides for working with LinkedIn.
-* **[Awesome Medium](https://github.com/brandonhimpfen/awesome-medium)** A curated list of awesome tools, tips, extensions, and resources for writers, readers, and publishers on Medium.
+* **[Awesome Medium](https://github.com/brandonhimpfen/awesome-medium):** A curated list of awesome tools, tips, extensions, and resources for writers, readers, and publishers on Medium.
 * **[Awesome Pinterest](https://github.com/brandonhimpfen/awesome-pinterest):** A curated list of high-quality tools, resources, guides, and communities for Pinterest marketers, creators, and enthusiasts.
-* **[Awesome Substack](https://github.com/brandonhimpfen/awesome-substack)** A curated list of awesome tools, tips, guides, and resources for writers, publishers, and creators using Substack.
+* **[Awesome Substack](https://github.com/brandonhimpfen/awesome-substack):** A curated list of awesome tools, tips, guides, and resources for writers, publishers, and creators using Substack.
 * **[Awesome YouTube](https://github.com/brandonhimpfen/awesome-youtube):** A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.
-* **[Awesome X](https://github.com/brandonhimpfen/awesome-x)** A curated list of high-quality tools, libraries, resources, and guides for working with X (formerly Twitter).
+* **[Awesome X](https://github.com/brandonhimpfen/awesome-x):** A curated list of high-quality tools, libraries, resources, and guides for working with X (formerly Twitter).
 
 ## Software Development
 
-* **[Awesome Software Architecture](https://github.com/brandonhimpfen/awesome-software-architecture)** A curated list of architectural patterns, frameworks, tools, and resources for designing scalable, maintainable, resilient, and understandable software systems.
+* **[Awesome Software Architecture](https://github.com/brandonhimpfen/awesome-software-architecture):** A curated list of architectural patterns, frameworks, tools, and resources for designing scalable, maintainable, resilient, and understandable software systems.
   
 ## Space Technology
 
@@ -465,7 +468,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Technology Giants
 
-* **[Awesome Elon Musk](https://github.com/brandonhimpfen/awesome-elon-musk)** A curated list of resources, projects, interviews, documentaries, articles, and communities related to Elon Musk.
+* **[Awesome Elon Musk](https://github.com/brandonhimpfen/awesome-elon-musk):** A curated list of resources, projects, interviews, documentaries, articles, and communities related to Elon Musk.
 * **[Awesome Google](https://github.com/brandonhimpfen/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
 * **[Awesome Microsoft](https://github.com/brandonhimpfen/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
 
