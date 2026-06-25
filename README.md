@@ -306,6 +306,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **Awesome Health Privacy & Compliance:** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
 * **Awesome Healthcare Analytics:** Data platforms and tools for healthcare insights and outcomes.
 * **Awesome Medical AI:** AI applications in diagnostics, imaging, and clinical decision support.
+* [Simvascular-VMR-Numpy-Data-Processing-for-Machine-Learning](https://github.com/ix-46-S/Simvascular-VMR-Numpy-Data-Processing-for-Machine-Learning) - Automates feature extraction from SimVascular VMR models and simulation results using data mining, while enriching the dataset with VMTK-derived geometric attributes for Machine Learning applications.
 * **Awesome Mental Health Tech:** Platforms and tools focused on mental health and wellbeing.
 * **Awesome Telemedicine:** Platforms and tools for remote healthcare delivery.
 * **[Awesome Wearables & Health Monitoring](https://github.com/brandonhimpfen/awesome-wearables-health-monitoring):** Devices and systems for tracking health metrics.
