@@ -24,6 +24,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Business & Economics](#business--economics)
 - [Cloud Platforms](#cloud-platforms)
 - [Code Editors](#code-editors)
+- [Conferences](#conferences)
 - [Creator Support Platforms](#creator-support-platforms)
 - [Cryptocurrency](#cryptocurrency)
 - [Data & Analytics](#data--analytics)
@@ -139,6 +140,10 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Code Editors
 
 * **[Awesome Visual Studio Code](https://github.com/brandonhimpfen/awesome-vscode):** A curated list of awesome Visual Studio Code extensions, resources, themes, and tools.
+
+## Conferences
+
+* **[Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences):** A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions.
 
 ## Creator Support Platforms
 
