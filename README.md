@@ -43,6 +43,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Media](#media)
 - [Mobile Development](#mobile-development)
 - [Platforms](#platforms)
+- [Podcasts](#podcasts)
 - [Politics & Society](#politics--society)
 - [Programming Languages](#programming-languages)
 - [Quantum Computing](#quantum-computing)
@@ -359,6 +360,10 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Shopify](https://github.com/brandonhimpfen/awesome-shopify):** A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.
 * **[Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services):** A curated list of awesome services, platforms, and tools for building, hosting, and managing static web
 * **[Awesome Stripe](https://github.com/brandonhimpfen/awesome-stripe):** A curated list of tools and integrations for building with Stripe.
+
+## Podcasts
+
+* **[Awesome Developer Podcasts](https://github.com/Infrasity-Labs/awesome-developer-podcasts):** A curated directory of developer podcasts for software engineering teams. It is an open-source collection of podcasts that covers system architecture, cloud-native, DevOps, B2B SaaS, AI/ML, and engineering leadership.
 
 ## Politics & Society
 
