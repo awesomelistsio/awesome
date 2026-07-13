@@ -114,6 +114,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
 * **[Awesome Microblogging](https://github.com/brandonhimpfen/awesome-microblogging):** A curated list of tools, platforms, resources, and strategies for microblogging.
 * **[Awesome Self Publishing](https://github.com/brandonhimpfen/awesome-self-publishing)** A curated list of awesome tools, resources, communities, and platforms for self-publishing authors.
+* **[Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter)** A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters. 
 * **[Awesome Travel Blogging](https://github.com/brandonhimpfen/awesome-travel-blogging):** A curated list of awesome resources, tools, platforms, and tips for travel bloggers.
 * **[Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress):** A curated list of resources for WordPress.
 
