@@ -18,6 +18,16 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ---
 
+🌍 **Available in:** 🇺🇸 English •
+🇫🇷 [Français](https://github.com/brandonhimpfen/awesome-lists-fr) •
+🇪🇸 [Español](https://github.com/brandonhimpfen/awesome-lists-es) •
+🇵🇹 [Português](https://github.com/brandonhimpfen/awesome-lists-pt) •
+🇨🇳 [中文](https://github.com/brandonhimpfen/awesome-lists-zh) •
+🇯🇵 [日本語](https://github.com/brandonhimpfen/awesome-lists-ja) •
+🇩🇪 [Deutsch](https://github.com/brandonhimpfen/awesome-lists-de)
+
+---
+
 - [Agriculture Tech (AgTech)](#agriculture-tech-agtech)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
