@@ -259,6 +259,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **Awesome Open Education Resources (OER):** Free and open learning materials and platforms.
 * **[Awesome Self-Learning](https://github.com/brandonhimpfen/awesome-self-learning):** Platforms, tools, resources, communities, methodologies, and learning materials for self-directed learning.
 * **Awesome Student Analytics:** Systems for tracking performance and learning outcomes.
+* **[Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme):** Curated directory of 176 study and learning tools by category and region.
 
 ## Emerging Tech: Drones & IoT
 
